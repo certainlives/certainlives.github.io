@@ -1,0 +1,17 @@
+<div id="site-navigation">
+	
+	{% for item in site.navigation %}
+	  {% if item.type %}
+	  	<div class="nav-item"><a href="{{ item.url }}">{{ item.title }}</a></div>
+	  {% else %}
+	   	<div class="nav-item"><a href="{{ item.url }}" target="_blank">{{ item.title }}</a></div>
+	  {% endif %}
+	{% endfor %}
+
+	<br>
+
+	{% for item in site.pages %}
+	  <div class="nav-item"><a href="{{ item.url }}">{{ item.title }}</a></div>
+	{% endfor %}
+
+</div>
