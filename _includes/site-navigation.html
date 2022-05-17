@@ -18,7 +18,9 @@
 <div id="site-navigation">
 
 	{% for item in site.pages %}
-	  <div class="nav-item"><a href="{{ item.url }}">{{ item.title }}</a></div>
+	{% if item.url != "/" %}
+		<div class="nav-item"><a href="{{ item.url }}">{{ item.title }}</a></div>
+	{% endif %}
 	{% endfor %}
 
 </div>

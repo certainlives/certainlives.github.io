@@ -35,12 +35,12 @@ plugins:
 navigation:
   - title: bandcamp
     url: https://certainlives.bandcamp.com
-  - title: cv
-    url: assets/pdf/resume_rickgillis2020.pdf
-  - title: email
-    url: mailto:funsworkings@gmail.com?subject=hey
   - title: instagram
     url: https://www.instagram.com/certain_lives
+  - title: e-mail
+    url: mailto:funsworkings@gmail.com?subject=hey
+  - title: cv
+    url: assets/pdf/resume_rickgillis2020.pdf
 
 pages:
   - title: about
