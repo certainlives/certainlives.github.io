@@ -1,10 +1,178 @@
 ---
 ---
 
+// Site header font
+@font-face {
+	font-family: KaeruKaeru;
+	src: url(../fonts/kaerukaeru-master/fonts/kaerukaeru-Regular.otf);
+}
+
+html, body {
+	height: 100%;
+	margin: 0;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 body {
 	background-color: #0000ff !important;
+	font-style: oblique !important;
+	margin: 2rem;
+	text-transform: lowercase;
+	color: rgb(185, 138, 255);
+}
+
+a {
+	color: rgb(206, 206, 112) !important;
+	text-decoration: none;
+}
+
+#site-header {
+	margin: 1.2rem 0;
+	font-family: KaeruKaeru !important;
+	font-size: 3rem;
+
+	height: auto;
+	display: inline-flex;
+}
+
+#flower-head {
+	height: 72px;
+	width: auto;
+	position: relative;
+
+	margin-left: 24px;
+}
+
+#site-navigation {
+	width: 240px;
+	height: 240px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content:center;
+
+	position: absolute;
+	top: 24px; 
+	right: 24px;
+
+	margin: 0;
+
+	background-image: url('../img/chain_circle.png');
+	background-size: 100% 100%;
+	background-color: #0000ff;
+	background-blend-mode:color-dodge;
+}
+
+#site-links {
+	position: fixed;
+	bottom: 12px;
+	right: 12px;
+	width: auto;
+	height: 36px;
+	background-color: rgba($color: #c8ff2f, $alpha: .7);
+	border-radius: 24px;
+
+	display: flex;
+	align-items: center;
+	padding: 4px;
+}
+
+#site-links a {
+	opacity: 1;
+}
+
+.nav-item {
+	padding: 4px 8px;
+	background-size: 100% !important;
+	overflow: visible !important;
+	background-position: center center;
+	background-repeat: no-repeat;
 }
 
 .nav-item a {
-	color: yellow !important;
+	color: black !important;
+}
+
+#bio-container {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+
+	width: 50%;
+}
+
+#profile-pic {
+	width: 67%;
+	height: auto;
+}
+
+#profile-pic img {
+	width: 100%;
+	height: 100%;
+}
+
+.page-content {
+	width: 67%;
+	//margin-top: 48px;
+}
+
+.image-gallery {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(200px, 1fr));
+    justify-content: center;
+    padding: 4px;
+  }
+
+  .box {
+      flex-basis: 25%;
+      width: 100%;
+      padding: 80px;
+      margin: 2px;
+  }
+
+  .img-gallery {
+	width: 100%;
+  	height: 200px;
+	object-fit: cover;
+  	transform: scale(1);
+  	transition: all 0.3s ease-in-out;
+  	&:hover {
+    	transform: scale(1.05);
+  	}
+}
+
+#blog-container {
+	//height: 300px;
+	//overflow: scroll !important;
+}
+
+.blog-post {
+	font-style: normal !important;
+	text-transform: none !important;
+}
+
+.blog-post-header {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: start;
+
+	max-width: 100% !important;
+}
+
+// Title
+.blog-post-header h2 {
+	color: white;
+
+}
+
+// Date
+.blog-post-header h3 {
+	margin-left: 24px;
+	color: yellowgreen;
+}
+
+.blog-post-content {
+
 }

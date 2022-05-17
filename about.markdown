@@ -1,18 +1,10 @@
 ---
-layout: page
+layout: about
 title: About
 permalink: /about/
+thumbnail: ../assets/img/legs-prof.png # Change this URL for diff profile picture
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a cursus est, a sollicitudin nisi. Pellentesque vel blandit magna, eget egestas enim. Nulla blandit fermentum ullamcorper. Suspendisse pulvinar tincidunt lorem, at faucibus nunc posuere vitae. Proin accumsan dapibus tellus eget congue. Vestibulum molestie pretium mattis. Cras arcu dui, tincidunt et neque sed, ultrices volutpat odio. Integer posuere ullamcorper est at egestas. Donec semper justo vel porttitor cursus. Pellentesque eget dui ex. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Duis efficitur urna ut arcu pharetra vestibulum. Curabitur eget porta felis. Vestibulum vel interdum enim. In lacinia lectus hendrerit faucibus blandit. Vivamus hendrerit quam quis augue pulvinar, a eleifend lectus tincidunt. Phasellus efficitur orci et placerat feugiat. Quisque aliquam, ligula vitae consectetur commodo, felis risus blandit odio, eu sodales dolor massa at turpis.

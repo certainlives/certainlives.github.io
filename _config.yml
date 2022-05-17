@@ -33,13 +33,13 @@ plugins:
   - jekyll-feed
 
 navigation:
-  - title: music
+  - title: bandcamp
     url: https://certainlives.bandcamp.com
   - title: cv
     url: assets/pdf/resume_rickgillis2020.pdf
   - title: email
     url: mailto:funsworkings@gmail.com?subject=hey
-  - title: insta
+  - title: instagram
     url: https://www.instagram.com/certain_lives
 
 pages:
@@ -49,6 +49,9 @@ pages:
     url: /blog/
   - title: mixed media
     url: /mixedmedia/
+
+images-url: "/assets/img/"
+texts-url: "/assets/txt/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

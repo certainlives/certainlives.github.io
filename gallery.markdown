@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: gallery
 title: Gallery
 permalink: /gallery/
 ---
 
-THI SI S  AF UCKING GALKLERY
