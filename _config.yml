@@ -37,21 +37,30 @@ navigation:
     url: https://certainlives.bandcamp.com
   - title: instagram
     url: https://www.instagram.com/certain_lives
-  - title: e-mail
-    url: mailto:funsworkings@gmail.com?subject=hey
-  - title: cv
-    url: assets/pdf/resume_rickgillis2020.pdf
 
-pages:
+root_pages:
   - title: about
-    url: /posts
+    url: /about/
   - title: blog
     url: /blog/
-  - title: mixed media
-    url: /mixedmedia/
+  - title: gallery
+    url: /gallery/
+  - title: '???'
+    url: https://www.youtube.com/watch?v=ME64bRiQi24&ab_channel=CNBCPrime
 
 images-url: "/assets/img/"
 texts-url: "/assets/txt/"
+
+particles_url: "img/star-child.png"
+
+collections:
+  blog:
+    output: true
+  gallery:
+    output: true
+
+# Change this value to adjust all recent posts shown on homepage
+recent-items-stack-height: 6
 
 # Exclude from processing.
 # The following items will not be processed, by default.

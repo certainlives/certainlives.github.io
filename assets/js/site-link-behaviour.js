@@ -1,8 +1,51 @@
 const navLinkBG = "../assets/img/nice-circle.png";
 
+var linkContainer;
+var linkItems;
+
+var linkPos = 0.0;
+var linkOffset = 0.0;
+var linkContainerW, linkContainerH;
+
+const linkRotationSpeed = 15.0;
+const linkRotationOffset = 0.0;
+const updateInterval = 0;
+
+var lastUpdateT = Date.now();
 
 
-window.onload = function(e) {
+/* rotating link behaviour */
+
+function update() {
+
+    let now = Date.now();
+    let dt = now - lastUpdateT;
+    lastUpdateT = now;
+
+    for(var i = 0; i < linkItems.length; i++){
+
+        let item = linkItems[i];
+        let pos = linkRotationOffset + linkPos + (i * linkOffset);
+        let pos_rads = pos * (Math.PI / 180);
+
+        let x = Math.cos(pos_rads) * (linkContainerW);
+        let y = Math.sin(pos_rads) * (linkContainerH);
+
+        item.style.marginLeft = x + 'px';
+        item.style.marginTop = y + 'px';
+        // + 'px'
+    }
+
+    linkPos += ( (dt / 1000.0) * linkRotationSpeed);
+    if(linkPos > 360.0){
+        linkPos -= 360.0; // Return within range (360)
+        //  <HERE> potential fun loop behaviour who knows
+    }
+}
+
+$(document).ready(function () {
+
+    /*  Attach all circle assets to links in nav bar */
 
     console.log("did load!")
 
@@ -31,4 +74,21 @@ window.onload = function(e) {
         console.log(navItemLink.href);
     }
 
-};
+    /* Setup rotating social link behaviours  */
+
+    linkContainer = document.getElementById('site-navigation');
+    if(linkContainer)
+    {
+        linkContainerW = linkContainer.offsetWidth;
+        linkContainerH = linkContainer.offsetHeight;
+
+        linkItems = linkContainer.getElementsByClassName('link-item');
+        
+        let linkItemStack = linkItems.length;
+        if(linkItemStack > 0) 
+        {
+            linkOffset = 360.0 / linkItemStack;
+            myInterval = setInterval(update, updateInterval);
+        }
+    }
+});

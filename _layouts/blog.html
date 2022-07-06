@@ -6,13 +6,13 @@ layout : page
 
 <div id="blog-container">
 
-  {% assign sorted = site.posts | sort: 'date' | reverse %}
+  {% assign sorted = site.blog | sort: 'date' | reverse %}
   {% for post in sorted %}
 
   <div class="blog-post">
     <div class="blog-post-header">
 
-      <h2>{{ post.title }}</h2>
+      <h2><!--<a href="{{site.baseurl}}{{ post.url }}">-->{{ post.title }}</a></h2>
       <h3>{{ post.date | date: "%-d %B %Y" }}</h3>
 
     </div>

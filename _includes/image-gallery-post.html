@@ -1,0 +1,9 @@
+{% assign title= include.title %}
+{% assign source= include.src %}
+{% assign caption= include.caption %}
+{% assign date= include.date %}
+
+<img src="{{ source }}">
+<h3>{{ title }}</h3>
+<p>{{ caption }} </p>
+<p>{{ date | date: "%-d %B %Y"  }}</p>

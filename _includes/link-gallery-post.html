@@ -1,0 +1,8 @@
+{% assign title= include.title %}
+{% assign source= include.src %}
+{% assign caption= include.caption %}
+{% assign date= include.date %}
+
+<h3><a href="{{ source }}">{{ title }}</a></h3>
+<p>{{ caption }} </p>
+<p>{{ date | date: "%-d %B %Y"  }}</p>

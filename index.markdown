@@ -5,4 +5,5 @@
 layout: index
 ---
 
-fuckfuckfuckfuck hahahahah
+Here you can announce different things or have a nice
+welcoming message for people to the site ! :)

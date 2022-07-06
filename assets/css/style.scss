@@ -15,7 +15,9 @@ html, body {
 
 body {
 	background-color: #0000ff !important;
-	font-style: oblique !important;
+	background: url(../img/wall_texture.jpg);
+	background-blend-mode: darken;
+	
 	margin: 2rem;
 	text-transform: lowercase;
 	color: rgb(185, 138, 255);
@@ -24,15 +26,35 @@ body {
 a {
 	color: rgb(206, 206, 112) !important;
 	text-decoration: none;
+	font-style: oblique !important;
+}
+
+h2 {
+	color: white;
+}
+
+h3 {
+	color: yellowgreen;
 }
 
 #site-header {
-	margin: 1.2rem 0;
 	font-family: KaeruKaeru !important;
 	font-size: 3rem;
 
 	height: auto;
 	display: inline-flex;
+}
+
+#sidebar {
+	width: 360px !important; // Sidebar width
+	height: auto;
+	position: fixed;
+	margin-top: 0;
+	margin-left: 0px;
+
+	display:flex;
+	flex-direction: column;
+	align-items: flex-start;
 }
 
 #flower-head {
@@ -46,27 +68,26 @@ a {
 #site-navigation {
 	width: 240px;
 	height: 240px;
+
+	position: relative;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 	justify-content:center;
 
-	position: absolute;
-	top: 24px; 
-	right: 24px;
+	//position: absolute;
+	//top: 24px; 
+	//right: 24px;
 
-	margin: 0;
+	margin-top: 16px;
 
 	background-image: url('../img/chain_circle.png');
 	background-size: 100% 100%;
-	background-color: #0000ff;
-	background-blend-mode:color-dodge;
+	//background-color: #0000ff;
+	//background-blend-mode: darken
 }
 
 #site-links {
-	position: fixed;
-	bottom: 12px;
-	right: 12px;
 	width: auto;
 	height: 36px;
 	background-color: rgba($color: #c8ff2f, $alpha: .7);
@@ -90,7 +111,12 @@ a {
 }
 
 .nav-item a {
-	color: black !important;
+	color: rgb(134, 134, 134) !important;
+}
+
+.link-item {
+	// Just a class !
+	position: fixed !important;
 }
 
 #bio-container {
@@ -98,11 +124,11 @@ a {
 	flex-direction: column;
 	align-items: flex-start;
 
-	width: 50%;
+	//width: 50%;
 }
 
 #profile-pic {
-	width: 67%;
+	//width: 67%;
 	height: auto;
 }
 
@@ -111,8 +137,35 @@ a {
 	height: 100%;
 }
 
+#site-wrapper {
+	width: 100%;
+	height: 100%;
+	position: relative;
+	margin: 10px;
+}
+
+#clown-king {
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	top:0;
+	left: 0;
+
+	background-image: url('../img/clown-king.png');
+	background-size: 100% 100%;
+	background-blend-mode: color-burn;
+	background-color: rgb(56, 56, 56);
+
+	opacity: .5;
+}
+
 .page-content {
-	width: 67%;
+	position: relative;
+	margin-left: 360px; // Sidebar width
+	padding: 0px 64px 64px;
+
+	min-width: 480px !important;
+	max-width: 800px !important;
 	//margin-top: 48px;
 }
 
@@ -150,9 +203,15 @@ a {
 .blog-post {
 	font-style: normal !important;
 	text-transform: none !important;
+
+	width: fit-content;
+
+	background-image: url('../img/certain-lives-clouds.png');
+	background-size: 100% 100%;
+	background-blend-mode: difference;
 }
 
-.blog-post-header {
+.blog-post-header{
 	display: flex;
 	flex-direction: row;
 	align-items: center;
@@ -161,18 +220,82 @@ a {
 	max-width: 100% !important;
 }
 
+#gallery-container {
+	
+}
+
+.gallery-post {
+
+	font-style: normal !important;
+	text-transform: none !important;
+
+	width: fit-content;
+
+	background-image: url('../img/certain-lives-clouds.png');
+	background-size: 100% 100%;
+	background-blend-mode: difference;
+
+}
+
+.gallery-post-media img, video {
+
+	max-width: 100% !important;
+	max-height: 800px !important;
+
+}
+
+.gallery-post-info {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: start;
+
+	margin: 16px 0;
+
+	max-width: 100% !important;
+}
+
+.gallery-post-info h2 {
+	margin: 0 !important;
+	padding-right: 16px;
+}
+
+.gallery-post-info h3 {
+	margin: 0 !important;
+}
+
+.gallery-post-media {
+
+}
+
+.gallery-post-content {
+	
+}
+
 // Title
 .blog-post-header h2 {
-	color: white;
 
 }
 
 // Date
 .blog-post-header h3 {
 	margin-left: 24px;
-	color: yellowgreen;
 }
 
 .blog-post-content {
 
+}
+
+#p5_overlay 
+{
+    width: 100vw;
+    height: 100vh;
+
+    pointer-events: none !important;
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    
+    z-index: -98 !important;
 }

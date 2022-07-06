@@ -2,4 +2,28 @@
 layout : page
 ---
 
-{{ content }}
+<div id="splash-page-container">
+
+<!--
+    LEFTOVER WORK FOR HOMEPAGE RECENT POSTS YA KNOW!
+
+{% assign posts = site.blog | concat: site.gallery | sort: 'date' | reverse %}
+{% for post in posts limit:site.recent-items-stack-height %}
+
+<div id="splash-post">
+    <h2>{{ post.title }}</h2>
+    {{ post.content }}
+</div>
+
+{% endfor %}-->
+    
+</div>
+
+<!--
+<div id="splash-page-container">
+
+    <div id="splash-post">
+        <h2>{{ content }}</h3>
+    </div>
+        
+    </div>-->

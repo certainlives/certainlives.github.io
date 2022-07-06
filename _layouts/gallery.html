@@ -2,10 +2,28 @@
 layout : page
 ---
 
-{% if page.thumb %}
+<div id="gallery-container">
 
-{{ page.thumb }}
+    {% assign posts = site.gallery | sort : 'date' | reverse %}
+    {% for post in posts %}
 
-{% endif %}
+    {% assign type= post.type %}
+    {% if type %}
 
-{% include default-gallery.html folder="gallery"%}
+    <div class="gallery-post">
+    <div class="gallery-post-media">
+    {% if type == "image" %}
+        <img src="{{ post.src }}" href="{{ post.src }}">
+    {% elsif type == "video" %}
+        <video controls autoplay><source src="{{ post.src }}" type="video/mp4"></video>
+    {% endif %}
+    </div>
+    <div class="gallery-post-info"><h2>{{ post.title }}</h2><h3>{{ post.date | date: "%-d %B %Y" }}</h3></div>
+    <div class="gallery-post-content">{{ post.content }}</div>
+
+    </div>
+
+    {% endif %}
+
+    {% endfor %}
+</div>

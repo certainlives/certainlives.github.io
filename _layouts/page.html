@@ -6,15 +6,29 @@
 	<title>{{ site.title }}</title>
 
 	<link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/p5@0.10.2/lib/p5.js"></script> <!-- Processing -->
+
+
+    <!--<script src="{{ base.url | prepend: site.url }}//assets/js/sketch.js"></script>-->
 </head>
 <body>
 
-{% include site-header.html %}
-{% include site-navigation.html %}
+<div id="clown-king"></div>
 
-<div class="page-content">
-	{{ content }}
+<div id="site-wrapper">
+
+	{% include sidebar.html %}
+
+	<div class="page-content">
+		{{ content }}
+	</div>
+
 </div>
+	
+{% include sketch.html %}
+
 
 </body>
 </html>
