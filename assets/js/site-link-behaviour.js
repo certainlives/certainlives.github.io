@@ -61,7 +61,9 @@ $(document).ready(function () {
         let navItem = navElements[i];
         let navItemLink = navItem.getElementsByTagName('a')[0];
 
-        if(navItemLink == targetLinkURL){
+        let _includes = targetLinkURL.includes('/' + navItemLink.innerText);
+
+        if(_includes){
 
             navItem.style.backgroundImage = 'url(\'' + navLinkBG + '\')';
             console.log("Found nav match for page URL!")

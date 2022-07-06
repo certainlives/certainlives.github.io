@@ -56,8 +56,10 @@ particles_url: "img/star-child.png"
 collections:
   blog:
     output: true
+    url: '/blog'
   gallery:
     output: true
+    url: '/gallery'
 
 # Change this value to adjust all recent posts shown on homepage
 recent-items-stack-height: 6

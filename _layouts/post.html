@@ -1,11 +1,19 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>{{ site.title }}</title>
-</head>
-<body>
+---
+layout : page
+---
 
-</body>
-</html>
+<div class="blog-post">
+	<div class="blog-post-header">
+
+		<h2>{{ page.title }}</h2>
+		<h3>{{ page.date | date: "%-d %B %Y" }}</h3>
+
+	</div>
+	<div class="blog-post-content">
+
+		<p>{{ content }}</p>
+
+	</div>
+
+	<a href="{{ base.url | prepend: site.url }}/blog">return to blog!</a>
+</div>
