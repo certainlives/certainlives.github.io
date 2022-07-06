@@ -66,6 +66,16 @@ h3 {
 	margin-left: 24px;
 }
 
+.page-content {
+	position: relative;
+	margin-left: 360px; // Sidebar width
+	padding: 0px 64px 64px;
+
+	min-width: 480px !important;
+	max-width: 800px !important;
+	//margin-top: 48px;
+}
+
 #site-navigation {
 	width: 240px;
 	height: 240px;
@@ -117,7 +127,7 @@ h3 {
 
 .link-item {
 	// Just a class !
-	position: fixed !important;
+	position: absolute !important;
 }
 
 #bio-container {
@@ -145,6 +155,47 @@ h3 {
 	margin: 10px;
 }
 
+@media only screen and (max-width: 768px) {
+
+	body {
+		margin: 0 !important;
+	}
+
+	#site-wrapper {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: flex-start;
+
+		margin: 0 !important;
+	}
+
+	#sidebar {
+		width: initial !important; // Sidebar width
+		height: auto;
+		position: relative !important;
+		margin: 0 !important;
+		margin-bottom: 32px !important;
+	
+		display: flexbox;
+		flex-direction: column;
+		align-items: flex-start;
+	}
+	
+	.page-content {
+		display: block !important;
+		position: initial !important;
+		margin: 0 !important; // Sidebar width
+		padding: 0 !important;
+	
+		width: initial !important;
+
+		min-width: initial !important;
+		max-width: initial !important;
+	}
+
+}
+
 #clown-king {
 	width: 100%;
 	height: 100%;
@@ -158,16 +209,6 @@ h3 {
 	background-color: rgb(56, 56, 56);
 
 	opacity: .5;
-}
-
-.page-content {
-	position: relative;
-	margin-left: 360px; // Sidebar width
-	padding: 0px 64px 64px;
-
-	min-width: 480px !important;
-	max-width: 800px !important;
-	//margin-top: 48px;
 }
 
 .image-gallery {
