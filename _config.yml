@@ -53,6 +53,8 @@ root_pages:
 images-url: "/assets/img/"
 texts-url: "/assets/txt/"
 
+baseurl: "/certain-lives"
+
 particles_url: "img/star-child.png"
 
 collections:
