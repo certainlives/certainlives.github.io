@@ -35,8 +35,10 @@ plugins:
 navigation:
   - title: bandcamp
     url: https://certainlives.bandcamp.com
+  - title: '*'
   - title: instagram
     url: https://www.instagram.com/certain_lives
+  - title: '*'
 
 root_pages:
   - title: about
@@ -45,7 +47,7 @@ root_pages:
     url: /blog/
   - title: gallery
     url: /gallery/
-  - title: '???'
+  - title: '☻'
     url: https://www.youtube.com/watch?v=ME64bRiQi24&ab_channel=CNBCPrime
 
 images-url: "/assets/img/"

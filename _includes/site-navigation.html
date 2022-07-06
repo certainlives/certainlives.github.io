@@ -1,15 +1,21 @@
 <div id="site-navigation">
 
 	{% for item in site.root_pages %}
-		{% if item.title == '???' %}
-			<div class="nav-item"><a href="{{ item.url }}" target="_blank">{{ item.title }}</a></div>
+		{% if item.title == '☻' %}
+			<div class="nav-item" style="font-size: 2rem !important"><a href="{{ item.url }}" target="_blank">{{ item.title }}</a></div>
 		{% else %}
 			<div class="nav-item"><a href="{{ item.url }}">{{ item.title }}</a></div>
 		{% endif %}
 	{% endfor %}
 
 	{% for item in site.navigation %}
-		<div class="link-item"><a href="{{ item.url }}" target="_blank">{{ item.title }}</a></div>
+		<div class="link-item">
+			{% if item.url %}
+				<a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
+			{% else %}
+				<p style="font-size: 2rem !important;">{{ item.title }}</p>
+			{% endif %}
+		</div>
   	{% endfor %}
 
 </div>
