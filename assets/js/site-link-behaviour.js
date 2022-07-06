@@ -9,6 +9,7 @@ var linkContainerW, linkContainerH;
 
 const linkRotationSpeed = 15.0;
 const linkRotationOffset = 0.0;
+const linkPercentageFill = .89;
 const updateInterval = 0;
 
 var lastUpdateT = Date.now();
@@ -79,8 +80,8 @@ $(document).ready(function () {
     linkContainer = document.getElementById('site-navigation');
     if(linkContainer)
     {
-        linkContainerW = linkContainer.offsetWidth;
-        linkContainerH = linkContainer.offsetHeight;
+        linkContainerW = linkContainer.offsetWidth * linkPercentageFill;
+        linkContainerH = linkContainer.offsetHeight * linkPercentageFill;
 
         linkItems = linkContainer.getElementsByClassName('link-item');
         
