@@ -1,0 +1,29 @@
+{% assign post= include.post %}
+
+<div class="blog-post">
+    <div class="blog-post-header">
+
+      <h2>{{ post.title }}</h2>
+      <h3>{{ post.date | date: "%-d %B %Y" }}</h3>
+
+    </div>
+    <div class="blog-post-content">
+
+      {% capture content_words %}
+        {{ post.content | number_of_words }}
+      {% endcapture %}
+
+      {% capture excerpt_words %}
+        {{ post.content | truncatewords: 250 | number_of_words }}
+      {% endcapture %}
+
+      {% if content_words != excerpt_words  %} <!-- Exceeds length -->
+        {{ post.excerpt }}
+        <a href="{{site.baseurl}}{{ post.url }}">read more ></a>
+      {% else %}
+        {{ post.content }}
+      {% endif %}
+
+    </div>
+
+  </div>
