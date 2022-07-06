@@ -35,10 +35,10 @@ plugins:
 navigation:
   - title: bandcamp
     url: https://certainlives.bandcamp.com
-  - title: '*'
+  - title: '▚'
   - title: instagram
     url: https://www.instagram.com/certain_lives
-  - title: '*'
+  - title: '⏾'
 
 root_pages:
   - title: about
