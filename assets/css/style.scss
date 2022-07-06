@@ -210,6 +210,8 @@ h3 {
 	background-image: url('../img/certain-lives-clouds.png');
 	background-size: 100% 100%;
 	background-blend-mode: difference;
+
+	padding-bottom: 32px;
 }
 
 .blog-post-header{
@@ -236,6 +238,7 @@ h3 {
 	background-size: 100% 100%;
 	background-blend-mode: difference;
 
+	padding-bottom: 32px;
 }
 
 .gallery-post-media img, video {
@@ -275,12 +278,13 @@ h3 {
 
 // Title
 .blog-post-header h2 {
-
+	margin: 0 !important;
+	padding-right: 16px;
 }
 
 // Date
 .blog-post-header h3 {
-	margin-left: 24px;
+	margin: 0 !important;
 }
 
 .blog-post-content {
