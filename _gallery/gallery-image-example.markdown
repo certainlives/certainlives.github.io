@@ -2,7 +2,7 @@
 layout: gallery-post
 title:  "gallery_img"
 date:   2021-05-01 08:39:42 -0400
-src: "../assets/img/gallery/IMG_0168.jpg"
+src: "../assets/videos/IG_Sounding DIsorder.mov"
 type: image
 ---
 
