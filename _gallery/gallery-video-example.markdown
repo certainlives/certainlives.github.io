@@ -2,6 +2,8 @@
 layout: gallery-post
 title:  "three bedrooms in the east village"
 date:   2022-04-12 08:39:42 -0400
+src: <iframe width="560" height="315" src="https://www.youtube.com/embed/jYQ0h42N-q8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+type: video
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jYQ0h42N-q8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
