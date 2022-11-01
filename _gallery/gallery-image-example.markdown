@@ -1,9 +1,21 @@
 ---
 layout: gallery-post
-title:  "gallery_img"
+title:  "Sounding Disorder in Police Riots"
 date:   2021-05-01 08:39:42 -0400
 src: "../assets/videos/IG_Sounding DIsorder.mov"
-type: image
+type: videos
 ---
+Police rioting involves officers inciting violence against assembled groups. This project explores how police agitation transforms assemblies into riots through sound. The acoustemology of a police riot is conjured through police sound technologies. Following ethnomusicologist Steven Feld, acoustemology concerns how sound structures knowing, being, and experience. Within a police riot, dispersal orders played on a Long Range Amplification Device (LRAD)—a speaker system used to signal arrests—commands screamed over bullhorns, and unified chants across a police unit are strategic interventions in the soundscape to create disorder to justify police crackdown.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dui mi, malesuada sagittis nulla volutpat, gravida posuere tortor. Donec efficitur sed elit a ullamcorper. Mauris mollis augue a mi pellentesque convallis. Fusce at aliquet ligula. Nullam accumsan elit id interdum convallis. Morbi molestie aliquet enim, eu pharetra lacus feugiat id. Proin nec porttitor ex, eu posuere nisi.
+This audio/visual ethnography (full video below) reconstructs the acoustemology of a police riot at a counter-protest of a pro-police rally in Bay Ridge, Brooklyn. Blending field recordings of the New York Police Department’s LRAD and orders yelled by officers with hip-hop and techno production, a composed soundscape scores manipulated video from the pro-police rally. Techno and hip-hop production convey the solidarity felt by counter-protesters, while noise and field recordings recreate the terror coordinated by the police to instigate the riot. Taken together, the soundscape explores how attempts to establish order operate through sound. 
+
+Sonically, the riot emerges in the disorganizing sounds of policing. The insurgent jeers, chants, and noises of counter-protesters are an ordered soundscape given coherency by solidarity between counter-protesters. Amplified by the Blue Lives Matter rally, police hear the counter-protest as a break in the enforced soundscape, an affront to “Law and Order” justifying a police riot. The dynamic experience of the same sounds as ordered and disordered highlights the acoustemological conflict between counter-protesters and police. Through occupying different sonic worlds, police and counter-protesters struggle over the soundscape as an aural expression of order. This sonic conflict tracks the ephemerality of policing and protest in the cracks in the dreary police sirens and LRAD screeds.
+
+ As an ethnographer and electronic music musician, I convey the emotions felt during fieldwork through sound design. The sonic dimensions of this piece capture the stress and anxiety felt as the police corralled, charged, and attempted to arrest counter-protests of a Blue Lives Matter rally. My composition pulls from field recordings as an aesthetic expression of police violence and as a strategic obfuscation of who was present at the counter-protest. Manipulated sound enables me to anonymize the embodied connections that sustain confrontational protests (if the video is displayed publicly, I will blur all counter-protesters faces). 
+
+The visuals highlight the relationship between the Blue Lives Matter movement and police violence. Blue Lives Matter supporters actively encouraged police violence throughout the rally as police served as a frontline protecting them. While police violence would not emerge until later in the day, its conditions of possibility lie in the Blue Lives Matter rally. To convey this ethnographic insight aesthetically, I developed the sonic/visual interplay between the sounds of police riot and the images of police supporters by processing the MIDI data from my composition in Max MSP. Visual crossfades are synced to sample triggering; color saturation and the blue tint are mapped to pitch and sample length MIDI output. While the combination imparts the disorder of the police riot, the fractured and noisy nature of the composition interrupts attempts at social control by the police.
+
+This sense of conflict is key to both the theoretical and political stakes of the work. The divergent perspectives on order and disorder are entangled in a broader reckoning with the socio-political function of policing. The police riot, as used by activists and aesthetically developed here, intervenes in the narrative of policing as ordering to center violence within the maintenance of so-called “Law and Order.”
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JdjrUt45AGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
