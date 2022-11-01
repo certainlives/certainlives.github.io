@@ -1,10 +1,5 @@
----
-layout: gallery-post
-title:  "gallery video!"
-date:   2022-05-01 08:39:42 -0400
-src: "../assets/videos/IMG_7416.MOV"
-type: video
----
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JdjrUt45AGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Police rioting involves officers inciting violence against assembled groups. This project explores how police agitation transforms assemblies into riots through sound. The acoustemology of a police riot is conjured through police sound technologies. Following ethnomusicologist Steven Feld, acoustemology concerns how sound structures knowing, being, and experience. Within a police riot, dispersal orders played on a Long Range Amplification Device (LRAD)—a speaker system used to signal arrests—commands screamed over bullhorns, and unified chants across a police unit are strategic interventions in the soundscape to create disorder to justify police crackdown.
 
 This audio/visual ethnography (full video below) reconstructs the acoustemology of a police riot at a counter-protest of a pro-police rally in Bay Ridge, Brooklyn. Blending field recordings of the New York Police Department’s LRAD and orders yelled by officers with hip-hop and techno production, a composed soundscape scores manipulated video from the pro-police rally. Techno and hip-hop production convey the solidarity felt by counter-protesters, while noise and field recordings recreate the terror coordinated by the police to instigate the riot. Taken together, the soundscape explores how attempts to establish order operate through sound. 
@@ -17,5 +12,4 @@ The visuals highlight the relationship between the Blue Lives Matter movement an
 
 This sense of conflict is key to both the theoretical and political stakes of the work. The divergent perspectives on order and disorder are entangled in a broader reckoning with the socio-political function of policing. The police riot, as used by activists and aesthetically developed here, intervenes in the narrative of policing as ordering to center violence within the maintenance of so-called “Law and Order.”
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JdjrUt45AGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
