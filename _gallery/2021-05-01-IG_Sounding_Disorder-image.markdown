@@ -1,8 +1,10 @@
+---
 layout: gallery-post
 title:  "Sounding Disorder in Police Riots"
 date:   2021-05-01 08:39:42 -0400
 src: "../assets/videos/IG_Sounding_Disorder.mov"
 type: videos
+---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JdjrUt45AGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
