@@ -2,7 +2,7 @@
 layout: gallery-post
 title:  "three bedrooms in the east village"
 date:   2022-04-12 08:39:42 -0400
-src: "../assets/img/stairs_and_green.png"
+src: "../assets/img/stairs_and_green1.png"
 type: image
 ---
 
