@@ -18,4 +18,4 @@ The visuals highlight the relationship between the Blue Lives Matter movement an
 
 This sense of conflict is key to both the theoretical and political stakes of the work. The divergent perspectives on order and disorder are entangled in a broader reckoning with the socio-political function of policing. The police riot, as used by activists and aesthetically developed here, intervenes in the narrative of policing as ordering to center violence within the maintenance of so-called “Law and Order.”
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JdjrUt45AGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/JdjrUt45AGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
