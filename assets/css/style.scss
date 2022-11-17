@@ -190,15 +190,15 @@ h3 {
 	
 		width: initial !important;
 
-		min-width: initial !important;
-		max-width: initial !important;
+		min-width: 0vw !important;
+		max-width: 100vw !important;
 	}
 
 }
 
 #clown-king {
-	width: 100%;
-	height: 100%;
+	width: 100vw;
+	height: 100vh;
 	position: fixed;
 	top:0;
 	left: 0;
