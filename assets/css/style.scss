@@ -27,7 +27,13 @@ body {
 a {
 	color: rgb(206, 206, 112) !important;
 	text-decoration: none;
-	font-style: oblique !important;
+	//font-style: oblique !important;
+	font-weight: 100;
+	font-style: oblique;
+}
+
+a:hover {
+	color: rgb(134, 134, 134) !important;
 }
 
 h2 {
@@ -123,6 +129,10 @@ h3 {
 
 .nav-item a {
 	color: rgb(134, 134, 134) !important;
+}
+
+.nav-item a:hover {
+	color: rgb(206, 206, 112) !important;
 }
 
 .link-item {

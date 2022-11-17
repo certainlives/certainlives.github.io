@@ -12,7 +12,22 @@
     {% endif %}
     </div>
     <div class="gallery-post-info"><h2>{{ post.title }}</h2><h3>{{ post.date | date: "%-d %B %Y" }}</h3></div>
-    <div class="gallery-post-content">{{ post.content }}</div>
+    <div class="gallery-post-content">
+        {% capture content_words %}
+            {{ post.content | number_of_words }}
+        {% endcapture %}
+
+        {% capture excerpt_words %}
+            {{ post.content | truncatewords: 500 | number_of_words }}
+        {% endcapture %}
+
+        {% if content_words != excerpt_words  %} <!-- Exceeds length -->
+            {{ post.excerpt }}
+            <a href="{{site.baseurl}}{{ post.url }}" style="font-style: normal !important;">[ ... ]</a>
+        {% else %}
+            {{ post.content }}
+        {% endif %}
+    </div>
 </div>
 
 {% endif %}
