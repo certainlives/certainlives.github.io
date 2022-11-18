@@ -1,5 +1,5 @@
 ---
-layout: galler-post
+layout: post
 title:  "craigslist scammer"
 date:   2022-11-18 08:39:42 -0400
 src: "certainlives.github.io/assets/img/scammer.jpeg"
