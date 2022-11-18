@@ -16,4 +16,5 @@ a year later, much of what I did carry filled the 13th. i regret leaving behind 
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1406720309/size=small/bgcol=333333/linkcol=9a64ff/transparent=true/" seamless><a href="https://certainlives.bandcamp.com/album/craigslist-scammer-single">craigslist scammer (single) by certain lives</a></iframe>
 
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/02JlLBTTTFIAQBASR6a8aM?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
