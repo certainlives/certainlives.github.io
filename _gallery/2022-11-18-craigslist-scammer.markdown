@@ -1,4 +1,4 @@
-2022-11-18-scraigslist-scammer.markdown
+2022-11-18-craigslist-scammer.markdown
 ---
 layout: galler-post
 title:  "craigslist scammer"
