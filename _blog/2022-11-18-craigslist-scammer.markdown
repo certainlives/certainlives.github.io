@@ -2,7 +2,7 @@
 layout: galler-post
 title:  "craigslist scammer"
 date:   2022-11-18 08:39:42 -0400
-src: "../assets/img/scammer.png"
+src: "certainlives.github.io/assets/img/scammer.png"
 type: image
 ---
 march 2021 i’m selling my bedframe on craigslist. a buyer offers to mail me a check to pay for the movers. I accept. bounced checks, scams averted by cash app, my bedframe thrown out on the street. 
