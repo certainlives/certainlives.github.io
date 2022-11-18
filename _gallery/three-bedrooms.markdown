@@ -15,7 +15,3 @@ at the time of showing my apartment, i'd been on a vaporwave kick. i set out to 
 reflecting on my experiment, i decided to invert the vaporwave formula: as opposed to turning musak into unreal representations of mundane places, i took recordings from the showing and attempted to create an unreal representation of my very real home. throughout this recording, the voices of apartment hunters and the building manager dance around washed out vaporwave. distortion and delay create a space distinct from the one that i had spent so many days and nights inhabiting. 
 
 in the end, i needed to make the space uncanny in order to leave. the burden of leaving my home as it was weighed too heavy. so instead i melted into air.
-
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1406720309/size=small/bgcol=333333/linkcol=9a64ff/transparent=true/" seamless><a href="https://certainlives.bandcamp.com/album/craigslist-scammer-single">craigslist scammer (single) by certain lives</a></iframe>
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/02JlLBTTTFIAQBASR6a8aM?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
