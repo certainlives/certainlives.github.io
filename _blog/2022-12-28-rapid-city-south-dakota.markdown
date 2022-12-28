@@ -2,7 +2,7 @@
 layout: gallery-post
 title:  "rapid city south dakota"
 date:   2022-12-28 00:11:42 -0400
-src: "../assets/img/green_giant.heic"
+src: "certainlives.github.io/assets/img/green_giant.heic"
 type: image
 ---
 Rapid city, South Dakota 
