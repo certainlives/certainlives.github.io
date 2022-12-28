@@ -18,9 +18,15 @@ Alice gazed out the window. She remarked on the beauty of the windmills that pop
 
 Some of our listening: 
 Sun Ra - Sleeping Beauty
+
 Albert Ayler - Love Cry 
+
 XTC - Black Sea
+
 Minutemen - Double Nickels on the Dime 
+
 New Order - Power, Corruption & Lies 
+
 Lucretia Dalt - ¡Ay!
+
 TrueAnon - Bush Did 9/11 (part 1) 
