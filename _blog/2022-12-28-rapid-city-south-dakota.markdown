@@ -2,7 +2,7 @@
 layout: post
 title:  "rapid city south dakota"
 date:   2022-12-28 23:11:42 -0400
-src: "../assets/img/green_giant.HEIC"
+src: "certainlives/certainlives.github.io/assets/img/green_giant.HEIC"
 type: image
 categories: jekyll update
 ---
