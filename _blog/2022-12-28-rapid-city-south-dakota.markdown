@@ -16,6 +16,7 @@ Earlier in the day, passing the frozen Minnesota fields, the wind gathered snow 
 Alice gazed out the window. She remarked on the beauty of the windmills that populated the landscape. Their tenacious rotation the elevated compliment to what flowed beneath us. The windmills offered a welcome break from the icy fields. A verticality that dwarfed the grain silos and barns. Soon enough, there would only be the horizon slipping into darkness, a flat drive for hour and hours. 
 
 Some of our listening: 
+
 Sun Ra - Sleeping Beauty
 
 Albert Ayler - Love Cry 
