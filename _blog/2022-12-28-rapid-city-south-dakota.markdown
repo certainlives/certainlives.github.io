@@ -1,10 +1,10 @@
 ---
-layout: gallery-post
+layout: post
 title:  "rapid city south dakota"
 date:   2022-12-28 00:11:42 -0400
-src: "https://github.com/certainlives/certainlives.github.io/blob/28218a8738e30a34be4d6994023fe3040ced60c4/assets/img/green%20giant.jpg"
-type: image
+category: jekyll update
 ---
+![giant](certainlives.github.io/assets/img/green_giant.jpg)
 Rapid city, South Dakota 
 
 11:11 pm 
