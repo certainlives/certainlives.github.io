@@ -4,7 +4,7 @@ title:  "rapid city south dakota"
 date:   2022-12-28 00:11:42 -0400
 category: jekyll update
 ---
-![giant](assets/img/green_giant.jpg)
+![giant](certainlives.github.io/assets/img/green_giant.jpg)
 Rapid city, South Dakota 
 
 11:11 pm 
