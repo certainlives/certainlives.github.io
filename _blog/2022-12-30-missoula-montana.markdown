@@ -4,11 +4,6 @@ title:  "missoula montana"
 date:   2022-12-30 00:11:42 -0400
 category: jekyll update
 ---
-
-Portland, Oregon 
-
-10:31 am 
-
 From Rapid City to Missoula 
 
 South Dakota gave way to Wyoming and Montana. Sparsely populated planes becoming parceled hills growing to looming mountains. Car rides as exercises in constraint. As the 9 1/2 hours to Missoula, Montana ticked down, a peaceful subsisted within uneventfulness. Or a peaceful absurdity (depending on your perspective). Setting ourselves the task of driving from Chicago to Portland in four days, thrilled and intimidated by the task. All to end up patrolled by rolling gates, cutting across flat lands, sharp hills, snow and dirt. Hewing us into the road and progression towards our destination. 
