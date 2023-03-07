@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "what is a scene"
+title:  "on scenes"
 date:   2022-03-07 02:22:22 -0400
 categories: jekyll update
 ---
