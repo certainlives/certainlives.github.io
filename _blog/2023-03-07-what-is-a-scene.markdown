@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "what is a scene?"
+title:  "what is a scene"
 date:   2022-03-07 02:22:22 -0400
 categories: jekyll update
 ---
+what is a scene? 
 
 A collection of people you hang out with; a shared aesthetic; a means of circulating resources and care; a moment distilling lives within expression. Any of these offer a potential answer, but the question itself attempts to stabilize an everchanging constellation.
 
