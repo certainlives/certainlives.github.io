@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "what is a scene?"
+date:   2022-03-07 02:22:22 -0400
+categories: jekyll update
+---
+
+A collection of people you hang out with; a shared aesthetic; a means of circulating resources and care; a moment distilling lives within expression. Any of these offer a potential answer, but the question itself attempts to stabilize an everchanging constellation.
+
+As any jaded scenester will tell you, once it’s “a scene”, the scene is over. Beyond the aloof “cool” of this tossed off comment, the core issue is the play of feeling. Scenes are composed of people who intensely feel attractions of particular types of music, senses of belonging with those around them, an embodiment of how one sees themselves as reflected in those around them. 
+
+But this intense feeling is also the root of dissatisfaction. I’ve had multiple conversations with people who feel out of place in their own scene. I encounter artists all the time who are devastated as they feel they have fallen short of the degree of recognition and acceptance within their scene that they know they deserve. The sense of belonging transforming into alienation as the people within the scene change.
+
+For the noise and rave scene, there is certainly a degree of self-reflection occurring as new interest in these sounds and experiences usher in new audiences and artists. In turn, there’s an impulse to romanticize the past: “xyz event used to be so much better”; “people used to care more about issues and the culture”; “there used to be more experimentation/more weirdo shit/less clout/etc/etc/etc”. 
+
+These complaints misplace the problem as they look towards what a scene is as opposed to how a scene makes one feel. We may not have control over how encounters make us feel, but we can organize encounters to shape better feelings. The sense of dissatisfaction will not dissipate through remaining immersed in the same patterns and the same communities. Instead, it is the work of building new ways of encountering one another, of imagining a more satisfying interaction that is at the core of shifting how we feel. 
+
+For many, a scene is an escape from the dissatisfaction of everyday life. Or at least it starts that way until it becomes another source of dissatisfaction, the feeling of never exactly being recognized in the way you desire draining the fun out of the art you enjoy. Or the party starts to lose its appeal when the people you want to talk to never seem to have the time. Or the realization sets in that you’ve never seen anyone from the scene in the daytime. 
+
+In talking with people who deeply feel these dissatisfactions, the question of what to do is displaced onto the scene. The ruminations on how the past was better becoming a false substitute for action and change. The core issue is not the scene; it is your point of view. Satisfaction can only come from seeing yourself as whole. 
+
+A scene is the double play of self and community. It is the moment in which your sense of self is subject to the desires of others, and the point in which you understand how strong your sense of self is. The desire for community in the absence of a strong sense of self collapses the joy that can be found in community. It is the moment of being in a room full of people and feeling alone. 
+
+The remedy to this feeling is self-care and community-action. Joy can only return through addressing the underlying causes of dissatisfaction with yourself. Belonging emerges through arranging the type of encounters that bring joy. A scene only matters if you are happy with yourself. 
+
