@@ -13,10 +13,8 @@ Over the past month, I’ve been thinking back to Michael Warner and the late La
 
 <blockquote cite="[http://criticaltheoryindex.org/assets/sexinpublic.pdf]">
 A boy, twentyish, very skateboard, comes on the low stage at one end of the bar, wearing lycra shorts and a dog collar. He sits loosely in a restraining chair. His partner comes out and tilts the bottom's head up to the ceiling, stretching out his throat. Behind them is an array of foods. The top begins pouring milk down the boy's throat, then food, then more milk. It spills over, down his chest and onto the floor. A dynamic is established between them in which they carefully keep at the threshold of gagging. The bottom struggles to keep taking in more than he really can. The top is careful to give him just enough to stretch his capacities. From time to time a baby bottle is offered as a respite, but soon the rhythm intensifies. The boy's stomach is beginning to rise and pulse, almost convulsively.
-
  
- 
-It is at this point that we realize we cannot leave, cannot even look away. No one can. The crowd is transfixed by the scene of intimacy and display, control and abandon, ferocity and abjection. People are moaning softly with admiration, then whistling, stomping, screaming encouragements. They have pressed forward in a compact and intimate group. Finally, as the top inserts two, then three fingers in the bottom's throat, insistently offering his own stomach for the repeated climaxes, we realize that we have never seen such a display of trust and violation. We are breathless.
+<p>It is at this point that we realize we cannot leave, cannot even look away. No one can. The crowd is transfixed by the scene of intimacy and display, control and abandon, ferocity and abjection. People are moaning softly with admiration, then whistling, stomping, screaming encouragements. They have pressed forward in a compact and intimate group. Finally, as the top inserts two, then three fingers in the bottom's throat, insistently offering his own stomach for the repeated climaxes, we realize that we have never seen such a display of trust and violation. We are breathless.<br></p>
 </blockquote>
 
 </body>
