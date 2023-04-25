@@ -4,7 +4,7 @@ title: "drowning in milk"
 date: 2023-04-24 00:11:42 -0400
 category: jekyll update
 ---
-Over the past month, I’ve been thinking back to Michael Warner and the late Lauren Berlant’s essay [“Sex in Public.”](http://criticaltheoryindex.org/assets/sexinpublic.pdf ""Sex in Public."") One of the central questions of the essay is how intimate spaces ground community within particular property relations. The club, the public park, the subway, sex shop—any space unfolds a particular set of intimacies, allowing certain forms of closeness to flourish and others to perish. The relation between intimacy and space is a political question as policy, the economy, and the police shape which intimate spaces are able to exist, particularly in cities where property values are exceedingly high. 
+Over the past month, I’ve been thinking back to Michael Warner and the late Lauren Berlant’s essay [“Sex in Public.”](http://criticaltheoryindex.org/assets/sexinpublic.pdf ""Sex in Public."") One of the central questions of the essay is how intimate spaces ground community within particular property relations. The club, the public park, the subway, the sex shop—any space unfolds a particular set of intimacies, allowing certain forms of closeness to flourish and others to perish. The relation between intimacy and space is a political question as policy, the economy, and the police shape which intimate spaces are able to exist, particularly in cities where property values are exceedingly high. 
  
 <html>
 <body>
