@@ -24,13 +24,13 @@ Anthropologist [Peter Geschiere](https://press.uchicago.edu/ucp/books/book/chica
 
 The witch is a threat from inside of communities. The launderer is a threat to communities through faking their place within a community in order to extract something from it. Unlike the bootlegger targeting luxury brands to eke out a living, the launderer identifies communities embodying a particular intimacy and coolness as a site to smuggle harmful ideas, aesthetics, and people through. 
 
-![mandate-heaven](assets/img/mandate-heaven.jpg)
+![mandate-heaven][[(assets/img/mandate-heaven.jpg)]]
 
 As the rave scene gains more prominence, I have noticed the [clout launderer](https://www.reddit.com/gallery/1465e9e "clout launderer") slithering their way into the scene over the last two summers. Often times, these are tech or [crypto bros](https://www.coindesk.com/web3/2022/05/05/everything-you-always-wanted-to-know-about-miladys-but-were-afraid-to-ask/ "crypto bros") who realize they can buy their way into the scene. They obfuscate their interest in reactionary politics (read: hatred of racial minorities, women, queers, and the impoverished) within techno-utopian rhetoric that resonates with elements of the rave scene. But these losers aren’t interested in the rave as a space for people to become themselves, to be lost in the ecstatic play of sound and movement where sweaty bodies give way to new ways of understand yourself—these fuckers just want to pray on vulnerable people and pretend to be cool. 
 
 -
 
-![clubeat](assets/img/clubeat.jpeg)
+![clubeat][[(assets/img/clubeat.jpeg)]]
 
 I’m somewhere lost in a sea of heaving bodies as club eat plays in a Lower East Side club’s basement. I’m somewhere between the locked embrace of the men in front of me and the locked eye contact of club eat’s frontwoman. I’m somewhere between the intimacy of an entangled earring and the estrangement of watching the show unfold on someone’s phone. 
 
