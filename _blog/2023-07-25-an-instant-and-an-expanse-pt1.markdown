@@ -18,10 +18,12 @@ An ache
 Rattling off 
 A cigarette
 From an empty pack 
----
+
+-
 
 Collapse the distinction between life and art. Or, at least that’s the injunction. Becoming part of the process through which other artists emerge. An ephemeral economy post-scarcity. On the rooftop, my eyes are fireflies blinking in a bulbous toad’s chin. The car ignition ignites past the melted skin steering wheel. A car crash in the swampy muck where rabbits ripple through water becoming mud. Rubber wrapped around the trees, their roots nourished by scratches, whirls, and creaks. Each noise enfolding an ecosystem, nutrient rich but resource poor. “You can’t stay, a window is not a door, a roof is not a mattress swaddled in plastic sheets, concrete cracks under the weight of our dreams,” they yelled, caught in the shattered glass of a spidering life. Or is it the sublime difference of a broken mirror, where every fracture betrays a new face.
----
+
+-
 
 I stand in the crowd inhaling the sawdust kicked up from a buzz saw undoing the work of a moment before. An instant and an expanse explore in the sound of a screw breaking in half. 
 
@@ -32,7 +34,8 @@ Watching $5000 perform, I feel the many folds of performance. The work involved 
 As the contact mic amplifies the drill, as the pieces of wood clench closer in closer, locked in a lovers’ embrace, the drill haunts this moment of connection. The work of undoing, the falling away from each other after the music stops, the post-coital separation where ecstasy is rebalanced by a moment to oneself—all part of the process of making art. When spaces are building not through capital or contract, when maintenance isn’t the injunction of the boss but the call to lend a hand, the ephemeral rains. The momentary ability to be together runs through our hair. 
 
 Snap. Metal breaks apart. Two pieces of wood separated. Everyone yells, “One More Song.” But instead things go in a different direction. 
---
+
+-
 
 I’m huddled on a crowded bench in the smoking room. Cigarettes bounce between hands. Rations distributed. People group with those they know, but the beauty of the space was that any gathering gave way to a larger conversation. Every direction points to another path, and, in a moment like this, all the wanderers stumble at the same rhythm. 
 
@@ -41,7 +44,8 @@ I’d spent many nights fumbling between schemes and reflections in this room. H
 There was a beauty to the two spaces being so close. Sweat drips down the nose, taste the intense respite of clean air slinking in through the window. Energy moves back and forth, exciting thoughts and desires. My thinking and chatting would race between the two spaces. As if a performer lit a fire of thoughts, as if thoughts called me to feel a performance differently. 
 
 So often, we’re called to have fun, but not to hang. To enjoy ourselves but absent the depth of sinking into a splitting couch. 
---
+
+-
 
 “always coming into being, noise is necessarily immanent; intrinsic or inherent, to its instantiations in assemblages of machines, air, body, or building, it provides a way of exploring sound as such” ~ marina peterson 
 
@@ -52,4 +56,5 @@ Organization as life work emphasizes the importance of relationship building. Pe
 A good diy venue embodies artwork as life work. It is a place where the organizers’ life works breathe and intermingling with others. To share one’s life work is to inspire others to live differently, to undertake the task of figuring life as a creative endeavor. Artists and organizers bloom in these spaces not only because they offer accessible spaces for experimentation, but also because they guide fledging creatives in finding their own voices. They offer examples of myriad of paths to take. They encourage people to take the risk of following artistic passion. 
 
 diy venues give gifts. the recipients must figure out what to do with them. like a thoughtful gift, the meaning of this gesture takes time to be understood. it lingers, inciting a generous spirit.
---
+
+-
