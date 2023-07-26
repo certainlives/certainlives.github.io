@@ -5,18 +5,31 @@ date:   2023-07-25 08:39:42 -0400
 categories: jekyll update
 ---
 A room full of ghosts 
+
 Becoming the bonds that tie us together 
+
 Absent space filling the air between 
+
 An empty building
+
 Cascading sound 
+
 Collapsing debris 
+
 Screeching 
+
 Seeking more
+
 Than an overcrowded space 
+
 Full of no one you want to talk to
+
 An ache 
+
 Rattling off 
+
 A cigarette
+
 From an empty pack 
 
 -
