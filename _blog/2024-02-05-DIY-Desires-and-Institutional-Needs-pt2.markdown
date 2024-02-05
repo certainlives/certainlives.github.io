@@ -4,7 +4,7 @@ title:  "diy desires and institutional needs, pt 2"
 date:   2024-02-05 08:39:42 -0400
 categories: jekyll update
 ---
-Institutional Space/Public Space 
+<b>Institutional Space/Public Space</b>
 
 Papers erupted from a filing cabinet geyser, office chairs splayed like victims of a massacre, crumpled up pages of art books formed a pyramid in the corner of the room aping a <a href="https://en.wikipedia.org/wiki/%22Untitled%22_(Portrait_of_Ross_in_L.A.)">Felix Gonzalez-Torres</a> piece. Landline phones dangling from the ceiling, caught in the xerox copied feedback of a webcam examining its own reflection. The detritus of the ISSUE Project Room office was thrust into the spotlight. 
 
