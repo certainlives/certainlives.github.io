@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "diy desires and institutional needs, pt 1"
+title:  "diy desires and institutional needs, pt 2"
 date:   2024-02-05 08:39:42 -0400
 categories: jekyll update
 ---
