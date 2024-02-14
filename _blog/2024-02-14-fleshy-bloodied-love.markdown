@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "fleshy, bloodied love"
+date:   2024-02-14 08:39:42 -0400
+categories: jekyll update
+---
 <i>Review</i>
 
 “I Think I’m in Trouble,” Tashi Fay, Charlotte Fox, Cecile Hirschler, Ellie Rae Hunter, Julien Parant-Marquis, Lila de Magalheas, Suzy Spence and Sophie Stone @ <a href="https://saras.world/I-think-im-in-trouble">Sara’s</a> 
