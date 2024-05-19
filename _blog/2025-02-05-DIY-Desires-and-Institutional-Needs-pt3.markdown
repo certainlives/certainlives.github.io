@@ -37,7 +37,7 @@ This relationship between capital and art is the political problem underscoring 
 
 This is the threat posed by DIY desires. 
 
-DIY Desires
+<b>DIY Desires</b>
 
 Balancing on rock, I leaned over the cold East River and submerged a watercooler tank in the water. I felt the slippery rush running across my fingers. Small waves slid into the lip of the tank, but they’d never be enough to fill the container. In the 3am moonlight, I hovered over the water and thrust my hand and the tank deeper in the water. The container’s glugs complimented my friend’s laughing at the shore. We’d spent summer nights lounging in Transmitter Park’s grass. The waves lapped against the rocks as we exhaled the night. The ringing in our ears from <a href="https://certainlives.github.io/blog/2023-07-25-an-instant-and-an-expanse-pt1.html">Chaos Computer</a> intermingled with the city’s murmurs and the water’s sighs.
 
