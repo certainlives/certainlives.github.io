@@ -1,9 +1,12 @@
 ---
 layout: post
 title:  "diy desires and institutional needs, pt 3"
-date:   2024-02-05 08:39:42 -0400
+date:   2024-01-05 08:39:42 -0400
 categories: jekyll update
 ---
+<a href="https://certainlives.github.io/blog/2024-01-25-DIY-Desires-and-Institutional-Needs-pt1.html">pt 1</a> 
+<a href="https://certainlives.github.io/blog/2024-02-05-DIY-Desires-and-Institutional-Needs-pt2.html">pt 2</a> 
+
 <b>An Abbreviated History of Two Trees Realty and 22 Boerum Place</b>
 
 In March 2022, Two Trees Management company donated 22 Boerum Place to ISSUE Project Room. The donation formalized ISSUE’s ownership over 22 Boerum after being awarded the space on <a href="https://www.nytimes.com/2009/07/09/arts/09issue.html">20-year, rent free</a> lease by Two Trees Management in 2009. Two Trees Reality itself had acquired 110 Livingston–the building housing 22 Boerum–from the City in 2003 for upwards of $45 million.
