@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "diy desires and institutional needs, pt 3"
-date:   2024-01-05 08:39:42 -0400
+date:   2024-05-20 08:39:42 -0400
 categories: jekyll update
 ---
 <a href="https://certainlives.github.io/blog/2024-01-25-DIY-Desires-and-Institutional-Needs-pt1.html">pt 1</a> 
