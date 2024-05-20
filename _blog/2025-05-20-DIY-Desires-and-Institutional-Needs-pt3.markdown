@@ -65,3 +65,72 @@ The event began. We greeted the audience and reflected on how evil dentist is a 
 4) In critiquing the current structures of property and power that underlie both the DIY and institutional art worlds, it’s equally important to envision what an ideal system to support the arts would look like. Rather than asking for the bare minimum, we should be ambitious and detailed in our imagination of what the future can hold. This expansiveness of imagination can operate as the foundation on which solidarity that holds people together in dark times can grow and sustain us.
 
 And, with the tension in the room, we proudly said Free Palestine. 
+
+<b>The Work of Art</b>
+
+The installations and statement were limited interventions, aimed at highlighting contradictions within how ISSUE presents itself as a transgressive institution for the avant-garde. Artistic intervention requires engaging with limits as the limits of the context in which art is made and shared structure the possibilities of art itself. There’s a distance within political art between ambition and analysis. Ambition compels artists to make sweeping political statements, to present their work as critical of and an attack against the political structures artists oppose. Analysis asks artists to consider their situated position, what social and political structures beyond their control influence the work of art itself.
+
+Ambition without analysis risks making political statements in order to hold the “correct” opinion. Politics becomes a matter of self-branding. Aestheticize the political in order to graft it to one’s identity as an artist. This isn’t necessarily bad as embodying and representing political ambition is central to making political change seductive. If the appeal of this ambition is limited to small communities or scenes, then it can become self-congratulatory. Holding the proper perspective becomes a substitute for political action.
+
+Analysis without ambition risks intellectual self-congratulation. Understanding the constraints and contradictions of a particular social or political organization is not enough to change those structures. This too can become a form of holding the “correct” opinion where one’s analytic skills are elevated as an act of political action or as an excuse from being involved in social movements. Ambition is needed to hold close to the idea that the world will change through collective action. 
+
+In bringing together DIY organizers and artists, the third program attempted to synthesize ambition and analysis. The panel highlighted the drive of DIY organizers to create space for artists to make money and share their art within the constraints of New York real estate. It took seriously the idea that DIY spaces are different organizations of social, artistic, economic, and political life, where the kernel of a different society may exist even if the growth of this different society is constantly stamped out by the police, real estate companies, and the state. Bk’s performance dwelled on the ecstasy and excess of building these spaces as growing waves of noise and words accompanied a collapsing sculpture of dirt, barbed wire, and wood. Building is also a process of destroying where something must be demolished to open the soil for something new to grow. ANNIHIL’s performance moved between ambient waves of synthesizers and vocals and dance rhythms, culminating in ANNIHIL slashing his shirt with a boxcutter. The body lost in the play of sound, pushing outward into new ways of living within the world. 
+
+As the performance finished, I gathered the materials from installation and left Boerum. I felt a sense of accomplishment and a sense of failure. Mixed emotions often accompany my participation in music and art scenes. Maybe I’m looking for politics in the wrong places; maybe I’m not able to enjoy the work of art itself enough; maybe I’m too lost in analysis or too caught up in my own ambition.  
+
+<b>Uncomfortable Discomforts</b>  
+
+It has taken me a long time to finish and post this final section. In part, I feel haunted by the question “what is to be done?” The machinations of the art world in New York City seem trivial in the broader context of colonial violence, imperial conflict, and genocide. Part of my desire in writing this series is to demystify the curatorial and artistic process, to demonstrate how I think about political interventions through art. 
+
+At the same time, I am skeptical that works of art will liberate us. Art tends toward individualism. The art world elevates the solipsistic artistic genius; the work of making art is isolating; the presentation of art often delinks the work of art from the community in which it was developed. How can artists confront this individualization? 
+
+Within experimental music and art scenes, we’re quick to embrace comfortable discomforts. These are the ways of experiencing art that challenge us, but only within the boundaries of enjoyable transgression. After going to enough punk and noise shows, you understand the gestures of abrasiveness, anticipate the drama, and are comforted by it even if it is still outside the bounds of most people’s taste. There’s something about the political character of experimental music and art that is lost when we embrace the comfortable discomforts. The transgressive potential is colonized by the world as it exists, pleasure in discomfort becoming another way in which we cope with deteriorating political and social circumstances.  
+
+This isn’t to say we shouldn’t have fun, but to suggest a dose of skepticism surrounding the appeal of comfortable discomforts. At a moment in which the desire of self-expression and community funnels people into subcultures and niche aesthetic interests, we should be wary of whether we’re finding comrades or cellmates. An ideal cellmate is a comrade, but I’d rather not be in prison at all. 
+
+I make art that forces audiences to sit with uncomfortable discomfort. It asks participants to dwell in the sourness of pleasure. I’m interested in how that which we desire can be turned against us, harnessed into another technique of control and domination. I believe this work is important because in understanding the constraints and limits that structure desire itself (the desire to make art, the desire for community, the desire to be understood) we can liberate our pleasure. I’m not interested in moral purity (art as the proper political statement) or political dogmatism (art as effective propaganda), but experiences that make us dwell in the uncomfortable discomforts of our desires. 
+
+What would I want done with ISSUE Project Room? In December, I circulated a letter amongst previous curatorial fellows calling for ISSUE Project Room to take the following actions:
+1) A public statement to be released via ISSUE Project Room's website, social media, and email  list opposing the genocide, calling for an immediate end to Israeli military activity in Palestine,  and supporting Palestinian sovereignty. 
+2) Commitment to the international call for Boycott, Divestment, and Sanctions as outlined  by the Palestinian Academic and Cultural Boycott of Israel. 
+3) The use of ISSUE's social media platform to highlight Palestinian artists within ISSUE's  archive.  
+4) The inclusion of Palestinian artists, curators, poets, and thinkers within ISSUE Project  Room's 2024 programming and beyond. 
+In response, the board committed to the following changes:
+1) We’ve updated our website to include a more expansive statement that
+includes an affirmation of support for artists engaged in activism, advocacy,
+and political speech. Suzanne Fiol’s embrace of experimental musics in New
+York City in the face of gentrification-caused venue closures was a highly
+political act; she wanted a space where underrepresented and alternative
+artistic voices were heard, and we are unequivocally committed to ensuring
+that our artist’s practices are supported without hindrance or censorship.
+2) We have added a Lenapehoking land acknowledgement to the website, in
+recognition of indigenous land rights in the United States and the continuing
+travesty around indigenous exclusion and erasure in this country; we look
+forward to continuing our support of artists from indigenous communities and
+finding ways to expand that aspect of our programming to ensure that
+indigeneity and decoloniality are welcomed as necessary parts of the
+conversations our artists have every day. We are also engaging with the
+Lenape Center on their living land acknowledgement workshop in furtherance
+of this work.
+3) As announced in our Winter Season welcome email from today, we have
+added three artists as new members of ISSUE’s Artistic Advisory Council:
+artist Pamela Z, as well as two former Suzanne Fiol Curatorial Fellows: Ted
+Kerr and Leyya Mona Tawil; we look forward to working with them in depth on
+ways in which we can continue to create programming that engages diverse
+communities and amplifies voices that are threatened by political censorship,
+cultural bias, genocide, and racism worldwide.
+4) We will continue to expand ISSUE’s Board of Directors to bring in diverse
+voices that accurately represent the broad range of stakeholders who find
+value in our support of experimental practices performance. As you know, our
+two most recent Board members (Richard Kamerman and Charmaine Lee) are
+themselves members of our community, and we look forward to bringing in
+more directors in the coming year.
+
+While all worthwhile changes, ISSUE continues to evade confronting the question genocide in Gaza. In response to our call for ISSUE to commit to PACBI, the board argues “that the organization should not sign on to cultural boycotts or take any activity that preempts dialogue among our community of stakeholders.” The board suggests that the work of highlighting “violence, cultural erasure, and genocide” can be undertaken by individual artists and curators with ISSUE offering “a safe and open platform for this work.”
+
+Given the censorship I faced and the cold reception of the third program by some at ISSUE, I disagree with the characterization of ISSUE as a “safe and open platform.” I do not think a space can be “safe and open” when it refused to condemn an ongoing genocide. The response uses diversity and inclusion as a means of avoiding reflecting on complicity with the violence. Particularly worrisome is how the land acknowledge uses one genocide (Native American) as a means of avoiding engaging with another (Palestinian). This reflect broader trends in the art world where institutions represent themselves as innocent through acts of inclusion that fail to meaningfully confront how art institutions are supported by racial violence and capitalism. Individual artists and curators will have to decide for themselves if the platform is worth it. I will not be working with ISSUE Project Room again as the cowardice surrounding their attitude towards the genocide and PACBI is not in line with my values. 
+
+The broader question I’m interested in is how we as artists move beyond individual acts of resistance against institutions contrary to our values. What forms of collective action can be taken to criticize institutions and deconstruct the need we have for them? 
+
+So, yes, I will be boycotting ISSUE, but what will we do together? 
+
