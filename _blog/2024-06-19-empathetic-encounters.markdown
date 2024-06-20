@@ -6,12 +6,18 @@ categories: jekyll update
 ---
 This set of text emerged from a conversation with Adonis (@mercurysymbol) concerning grief, experimental and rave music, and land. In assembling these texts, I’m interested in sharing authors concerned with the staging of empathy. 
 
-empathy is not given 
+empathy is not given
+
 we are not given to empathy
+
 empathy is not a given
+
 empathy is cultivated
+
 like any skill 
+
 like any form of knowledge 
+
 empathy is hard won 
 
 These texts move through psychological, historical, and aesthetic underpinnings of empathy. Generally, the reading list moves through first a question of how empathy emerges and what historical conditions complicate empathy. Second, it situates empathy as an element with community formation, considering how communities emerging within settler colonial and racial capitalist contexts can extend empathy to those harmed by historical and present injustices. Finally, these texts consider the conflicts within empathy, the ways in which communities fail us, and artistic/philosophical project of living through these contradictions. 
