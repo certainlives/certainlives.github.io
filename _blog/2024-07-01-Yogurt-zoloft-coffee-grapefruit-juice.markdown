@@ -5,9 +5,14 @@ date:   2024-07-01 08:39:42 -0400
 categories: jekyll update
 ---
 <i>Review</i>
+
 Charli XCX - <i>Brat</i>
+
 Water Damage @ Union Pool, June 13
+
 Dripping @ Sparta NJ June 14-16 
+
+---------------
 
 
 Mari and me discuss Brat. She talks about how Charli expresses insecurities so many musicians experience. Charli manifests her confidence from within the insecurities. And she hates taylor swift. 
@@ -71,15 +76,24 @@ Drawing fabric is so tough. The ripples are made of light.
 Echoes of subjectivity. On the dance floor, you see the delayed shapes you could hold. An echo moves away from the original to become itself. Decay and distortion hang on the skin, like tattoos dancing toward the person the wearer would like to be. Unfolding meaning in the disoriented non-choice. But this unfolding is where the echo interrupts, of a different person I could be, maybe more feminine, thinner for sure (like when Charli sings about worrying about what to eat). Breath and dance hold the echo and the original in relief. 
 
 I got lost for a while in the dark of the woods. 
+
 Open pasture, night sky
+
 Against the forest backdrop, the fireflies danced
+
 I tried to follow one
 
+
 Morning/afternoon
+
 Can lines bend? 
+
 Does a shape breathe
+
 Walking alone or in the crowd 
+
 I don’t know what time it is 
+
 Maybe years ago
 
 Crying after the reading. It's always or maybe it's just often the case that when you try to avoid people, they end up showing up. In some ways, people are cascades of forms. Brands, tank tops, that type of bang that approximates a mullet but veers off into a different lifestyle. The soft hum of sadness moves from gaze to body to an interrupted moment of tumbling toward the past. 
