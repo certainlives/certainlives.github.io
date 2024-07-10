@@ -15,6 +15,7 @@ Co-Written with kaitlin simotics (@gallerypeace)
 <img src="../assets/img/spotlight.jpg" width="auto !important;" height="360px !important;" style="width:50%;">
 
 Myrtle/Wycoff
+
 -vendors, food trucks, artisans, resale, fruit, vegetables 
 -public sphere 
 
