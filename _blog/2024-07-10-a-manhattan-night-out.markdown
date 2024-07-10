@@ -6,6 +6,7 @@ categories: jekyll update
 ---
 <i>Review</i>
 “Fritto Misto II” @ IRL Gallery 
+
 “Who Do You Think They’re Fooling: You?” @ Essex Flowers 
 
 Co-Written with kaitlin simotics (@gallerypeace)
@@ -17,6 +18,7 @@ Co-Written with kaitlin simotics (@gallerypeace)
 Myrtle/Wycoff
 
 -vendors, food trucks, artisans, resale, fruit, vegetables 
+
 -public sphere 
 
 <i>bladee aesthetics</i> 
