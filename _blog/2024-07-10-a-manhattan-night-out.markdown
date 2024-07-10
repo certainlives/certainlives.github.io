@@ -12,6 +12,8 @@ Co-Written with kaitlin simotics (@gallerypeace)
 
 ---------------
 
+<img src="../assets/img/spotlight.jpg" width="auto !important;" height="360px !important;" style="width:50%;">
+
 Myrtle/Wycoff
 -vendors, food trucks, artisans, resale, fruit, vegetables 
 -public sphere 
@@ -33,7 +35,7 @@ Feiyue Shoes
 
 Remove the sink from the bathroom. Somewhere where you used to go to run into people you want to run into. The spotify is slipping, or skipping, or unable to fill the silence in the conversation. I almost swing around and stab my finger into someone’s eye. Got called a faggot on the street, contributed to the faggatory of the group. There’s a hairiness to the piece. There’s a deliberateness to the brush stroke. Buying paintings and taking them to clandestino. How do you communicate that you want their money without being too cloying? It is acting like you’ve already got the money, so you don’t even need it. Overflowing with opportunity. 
 
-<img src="../assets/img/new york.heic" width="auto !important;" height="360px !important;" style="width:50%;">
+<img src="../assets/img/new york.jpg" width="auto !important;" height="360px !important;" style="width:50%;">
 
 
 <i>imagine mounting an iPad 
@@ -128,6 +130,8 @@ I’m being self-conscious of my pretentiousness. I’m writing from the KGB ste
 <i>friends of the gallery
 
 people know about friends of the gallery</i> 
+
+<img src="../assets/img/lotion bath.jpg" width="auto !important;" height="360px !important;" style="width:50%;">
 
 <b>Appendix of things dropped at the gallery</b>
 1) I dropped a plastic cup by the boxed wine. I decided to double cup, thought to make a joke to K about it being in honor of atl, but reconsidered. The box wine was nestled in the corner of the gallery beneath a greenish painting on a wood carving. To the left was a smaller painting of a church, the sky bled, a creeping reddish purple. The ease of color spreading toward sky colliding with the crowd of friday night art gallery goers. I didn’t notice the cookie monster staring at me until later.
