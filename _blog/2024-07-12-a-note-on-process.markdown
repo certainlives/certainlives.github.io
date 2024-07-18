@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "a note on process"
-date:   2024-07-12 08:39:42 -0400
+date:   2024-07-12 08:39:42 -0000
 categories: jekyll update
 ---
 Recently, I was speaking with my mom. She’s been struggling to finish a novel. She faults a mixture of perfectionism and the as-yet-arrived intuition of how to finish the book. I’m trying to embrace intuition. 
