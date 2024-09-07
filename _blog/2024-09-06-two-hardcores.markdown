@@ -10,15 +10,15 @@ I only go to hardcore shows in the summer.
 
 I’ve gone to hardcore shows in the winter. 
 
-But the one hardcore—the hot sweat and foul smell, black leather, too many tattoos, beer cans thrown through the sky leaking along their arch. Dirt clods kicked up, kissing tendrils, crab walks, a general demand to take up space 
+But the one hardcore—the hot sweat and foul smell, black leather, too many tattoos, beer cans thrown through the sky leaking along their arch. Dirt clods kicked up, kissing tendrils, crab walks, a general demand to take up space.
 
-The other hardcore caraves heat in the dark. Ecstatic dance. Intense movement, driving kicks. 
+The other hardcore craves heat in the dark. Ecstatic dance. Intense movement, driving kicks. 
 
 At Capacity wasn’t hardcore. There were elements, but people like Kavari are post-hardcore. DJ Manny is hardcore, maybe a third hardcore. Endless hardcore. Is the third a post? A deferral. Something new or the re-intensification of the same? 
 
 Explosive color, lots of skin, sweaty, sexy, but intensely interior, insular. When you’re really dancing, lost inside, simultaneously so outside in an expressive sub that connects everyone. This was the post-hardcore of Kavari (and Manny)--they’re creating connectivity through the intensive bass. 
 
-The automatic doors at the Bushwick Art Center are jammed. It produced a loud, plastic grinding sound , repetitive and immediate. Then someone said Trump had been shot. 
+The automatic doors at the Bushwick Art Center are jammed. It produced a loud, plastic grinding sound, repetitive and immediate. Then someone said Trump had been shot. 
 
 The two hardcores are both hot and sweaty, but there’s different fluids and molecules moving through the crowds. Different aggressions. 
 
@@ -42,7 +42,7 @@ A good argument must be beautiful.
 
 Fishermen stretch down the beach. 9 ravers sit, chat, and play with the sand. Someone remarks, “This is exactly what I want to be doing with my life. My heart is so happy.” I see the endangered sandpiper running along the beach. The same one we chased after. But I don’t necessarily feel sadness, more an affirmation of myself for making the strange, challenging decision to take a car out to the rave at Fort Tilden. I smell the seafoam breaking against the sand. American flag towel, camouflage crocs, an overworked star tattoo, a fucked-up raver plays in the shallow waves. The rest of the rave ambles on the sand. K said there’s probably events like this in every city in the country, but I’m not sure. To be sitting on the beach after bopping around the Glendale intersection fireworks, after loitering on Myrtle for too long, only to find a bird circumnavigating the crowd, panning its chirps in a spiral downward towards bumps, joints, cigarettes, redbull, and plastic bottles of water. 
 
-I sit on the cold waves. The wind rips across rthe beach. Two embrace after one took a plunge in the morning sea. To be in love and stay up all night with your lover. One of the DJs snoozes on the sand, another flops around in the breaking waves, laughing alone. “Get baptized, Jesus beach god, go in the water.” 
+I sit by the cold waves. The wind rips across the beach. Two embrace after one took a plunge in the morning sea. To be in love and stay up all night with your lover. One of the DJs snoozes on the sand, another flops around in the breaking waves, laughing alone. “Get baptized, Jesus beach god, go in the water.” 
 
 I’ve been thinking about insanity a lot lately. On the concrete slab, overlooking the East River, the milquetoast rave in the foreground, the dregs of the hardcore show in the background, I said, “I think everyone is losing it.” H and M agreed, speculating some subsisting covid trauma was reemerging this summer. There’s a mix of fried, hyper-intensity and exhaustion. It's in the voice of the kids nervously discussing subway surfing. In the haggard, but rabid political climate. In the heavy heat that bursts into rain. 
 
