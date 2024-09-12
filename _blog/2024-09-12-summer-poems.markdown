@@ -4,7 +4,7 @@ title:  "summer poems"
 date:   2024-09-12 08:39:42 -0000
 categories: jekyll update
 ---
-<img src="../assets/img/face fairy.jpg" width="auto !important;" height="360px !important;" style="width:50%;"> 
+<img src="../assets/img/face fairy.jpg" width="auto !important;" height="360px !important;" style="width:100%;"> 
 a collection of poems written during summer 2024. 
 
 written in motion 
@@ -68,7 +68,7 @@ I’m the bugs eating my hairy legs
 Over an emotive free verse 
 
 
-<img src="../assets/img/smile.jpg" width="auto !important;" height="360px !important;" style="width:50%;"> 
+<img src="../assets/img/smile.jpg" width="auto !important;" height="360px !important;" style="width:100%;"> 
 
 
 -
@@ -170,7 +170,7 @@ Relax, enjoy
 Reestablish sanity
 Avoid electoral politics 
 
-<img src="../assets/img/smile.jpg](https://github.com/certainlives/certainlives.github.io/blob/2dbbba4c9858b308a632dea2d53437e1ddb97b70/assets/img/stare.jpg)" width="auto !important;" height="360px !important;" style="width:50%;"> 
+<img src="../assets/img/smile.jpg" width="auto !important;" height="360px !important;" style="width:100%;"> 
 
 
 -
