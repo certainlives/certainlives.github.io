@@ -6,10 +6,10 @@ categories: jekyll update
 ---
 a collection of poems from summer 2024
 
-
 <img src="../assets/img/face fairy.jpg" width="auto !important;" height="360px !important;" style="width:50%;"> 
 
 written in motion 
+
 nyc 
 
 -
@@ -17,6 +17,7 @@ nyc
 Keith Wakes from a Nap 
 
 For Donna Harraway 
+
 
 Lying on the couch
 
@@ -136,6 +137,7 @@ by my desire?
 2 Bitches in Prospect Park
 
 
+
 Cunty Bitch 
 
 Running Against Traffic
@@ -251,6 +253,7 @@ Street Lights Flash On
 -
 
 Clown Glitch
+
 
 
 Strawberry Icecream
