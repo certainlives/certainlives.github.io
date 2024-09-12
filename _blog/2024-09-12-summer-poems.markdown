@@ -5,6 +5,8 @@ date:   2024-09-12 08:39:42 -0000
 categories: jekyll update
 ---
 a collection of poems from summer 2024
+
+
 <img src="../assets/img/face fairy.jpg" width="auto !important;" height="360px !important;" style="width:50%;"> 
 
 written in motion 
@@ -412,10 +414,11 @@ W 14th
 X=conversation/life 
 
 
-p {text-indent: 4em; /* or 15px, or 5%, 2rem or 3vw */} >The</p> 
-P {text-indent: 4em; /* or 30px, or 5%, 2rem or 3vw */} >Ticking</p>
-p {text-indent: 4em; /* or 45px, or 5%, 2rem or 3vw */} >Cross</p>
-p {text-indent: 4em; /* or 60px, or 5%, 2rem or 3vw */} >Walk</p> 
+<p style="margin-left: 15px;">The</p>
+<p style="margin-left: 30px;">Ticking</p>
+<p style="margin-left: 45px;">Cross</p>
+<p style="margin-left: 60px;">Walk</p>
+
 
 It's ok to be a fat girl.
 
