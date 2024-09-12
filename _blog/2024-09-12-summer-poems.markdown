@@ -6,6 +6,7 @@ categories: jekyll update
 ---
 <img src="../assets/img/face fairy.jpg" width="auto !important;" height="360px !important;" style="width:50%;"> 
 
+
 a collection of poems written during summer 2024. 
 
 written in motion 
