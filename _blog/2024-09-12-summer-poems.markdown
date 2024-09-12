@@ -36,7 +36,7 @@ Through sandy spit
 
 Rooftop sunrises 
 
-Grass stains on Hannah Arhendt’s skirt
+Grass stains on Hannah Arendt’s skirt
 
 Standing at her grave 
 
