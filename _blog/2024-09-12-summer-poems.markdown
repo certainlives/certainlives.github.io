@@ -4,13 +4,11 @@ title:  "summer poems"
 date:   2024-09-12 08:39:42 -0000
 categories: jekyll update
 ---
+a collection of poems from summer 2024
 <img src="../assets/img/face fairy.jpg" width="auto !important;" height="360px !important;" style="width:50%;"> 
 
-
-a collection of poems written during summer 2024. 
-
 written in motion 
-in nyc 
+nyc 
 
 -
 
