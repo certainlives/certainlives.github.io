@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 a collection of poems from summer 2024
 
-<h1> <img src="../assets/img/face fairy.jpg" width="auto !important;" height="540px !important;" style="width:50%;"> </h1>
+<h1> <img src="../assets/img/face fairy.jpg" width="auto !important;" height="540px !important;" style="width:100%;"> </h1>
 
 written in motion 
 
@@ -110,7 +110,7 @@ I’m the bugs eating my hairy legs
 Over an emotive free verse 
 
 
-<h1> <img src="../assets/img/smile.jpg" width="auto !important;" height="540px !important;" style="width:50%;"> </h1>
+<h1> <img src="../assets/img/smile.jpg" width="auto !important;" height="540px !important;" style="width:100%;"> </h1>
 
 
 -
