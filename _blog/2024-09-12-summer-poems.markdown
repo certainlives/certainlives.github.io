@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 a collection of poems from summer 2024
 
-<img src="../assets/img/face fairy.jpg" width="auto !important;" height="360px !important;" style="width:50%;"> 
+<img src="../assets/img/face fairy.jpg" width="auto !important;" height="540px !important;" style="width:50%;"> 
 
 written in motion 
 
@@ -16,7 +16,9 @@ nyc
 
 Keith Wakes from a Nap 
 
-For Donna Harraway 
+(For Donna Harraway)
+
+
 
 
 Lying on the couch
@@ -77,12 +79,13 @@ A companion
 
 
 Write Poetry in Black Pen
+
 A Poetry of Affirmation 
 
 -
 
 
-Piercing glass against the distant bird
+Piercing glass against the distant birds
 
 A flurry of bubbles 
 
@@ -111,7 +114,7 @@ I’m the bugs eating my hairy legs
 Over an emotive free verse 
 
 
-<img src="../assets/img/smile.jpg" width="auto !important;" height="360px !important;" style="width:50%;"> 
+<img src="../assets/img/smile.jpg" width="auto !important;" height="540px !important;" style="width:50%;"> 
 
 
 -
@@ -138,6 +141,7 @@ by my desire?
 
 
 
+
 Cunty Bitch 
 
 Running Against Traffic
@@ -151,6 +155,8 @@ Visor
 Sunglasses 
 
 On a Sunday Morning 
+
+
 
 
 Faggy Bitch
@@ -280,7 +286,7 @@ Reestablish sanity
 
 Avoid electoral politics 
 
-<img src="../assets/img/stare.jpg" width="auto !important;" height="360px !important;" style="width:50%;"> 
+<img src="../assets/img/stare.jpg" width="auto !important;" height="540px !important;" style="width:50%;"> 
 
 
 -
