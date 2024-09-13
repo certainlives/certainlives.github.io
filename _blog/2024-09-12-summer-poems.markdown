@@ -4,6 +4,15 @@ title:  "summer poems"
 date:   2024-09-12 08:39:42 -0000
 categories: jekyll update
 ---
+<html>
+<head>
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
+</head>
+<body>
 a collection of poems from summer 2024
 
 <h1> <img src="../assets/img/face fairy.jpg" width="auto !important;" height="540px !important;" style="width:50%;"> </h1>
@@ -14,13 +23,9 @@ nyc
 
 -
 
-Keith Wakes from a Nap 
-
-(For Donna Harraway)
-
-
-
-
+Keith Wakes from a Nap <br> 
+(For Donna Harraway)<br>
+<br>
 Lying on the couch
 
 Keith ambles over
@@ -137,11 +142,8 @@ by my desire?
 
 -
 
-2 Bitches in Prospect Park
-
-
-
-
+2 Bitches in Prospect Park <br>
+<br>
 Cunty Bitch 
 
 Running Against Traffic
@@ -154,11 +156,8 @@ Visor
 
 Sunglasses 
 
-On a Sunday Morning 
-
-
-
-
+On a Sunday Morning <br>
+<br>
 Faggy Bitch
 
 Pug Licks her Face 
@@ -245,9 +244,9 @@ The neighborhood
 
 -
 
-Max Gordon Corner
+Max Gordon Corner<br>
 
-Lounging on the Rock
+Lounging on the rock
 
 You are beautiful
 
@@ -258,17 +257,15 @@ Street Lights Flash On
 
 -
 
-Clown Glitch
-
-
-
+Clown Glitch<br>
+<br>
 Strawberry Icecream
 
 Money and cigarettes
 
 Sweat flashes my eyes
 
-Your arms are my cocoon
+Your arms are my cocoon<br>
 
 
 Ebay watch
@@ -286,7 +283,7 @@ Reestablish sanity
 
 Avoid electoral politics 
 
-<h1> <img src="../assets/img/stare.jpg" width="auto !important;" height="340px !important;" style="width:50%;"> </h1>
+<h1> <img src="../assets/img/stare.jpg" width="auto !important;" height="340px !important;" style="width:100%;"> </h1>
 
 
 -
