@@ -4,15 +4,6 @@ title:  "summer poems"
 date:   2024-09-12 08:39:42 -0000
 categories: jekyll update
 ---
-<html>
-<head>
-<style>
-h1 {text-align: center;}
-p {text-align: center;}
-div {text-align: center;}
-</style>
-</head>
-<body>
 a collection of poems from summer 2024
 
 <h1> <img src="../assets/img/face fairy.jpg" width="auto !important;" height="540px !important;" style="width:50%;"> </h1>
