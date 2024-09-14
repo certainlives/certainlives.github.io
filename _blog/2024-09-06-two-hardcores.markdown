@@ -14,9 +14,9 @@ But the one hardcore—the hot sweat and foul smell, black leather, too many tat
 
 The other hardcore craves heat in the dark. Ecstatic dance. Intense movement, driving kicks. 
 
-At Capacity was hardcore, but in an expansive way. There were elements, but people like Kavari are post-hardcore. DJ Manny is hardcore, maybe a third hardcore. Endless hardcore. Is the third a post? A deferral. Something new or the re-intensification of the same? 
+At Capacity was hardcore, but in an expansive way. People like Kavari are post-hardcore. DJ Manny is hardcore, maybe a third hardcore where intensity and sensousity intermingle. Endless hardcore. Is the third a post? A deferral. Something new or the re-intensification of the same? 
 
-Explosive color, lots of skin, sweaty, sexy, but intensely interior, insular. When you’re really dancing, lost inside, simultaneously so outside in an expressive sub that connects everyone. This was the (post-)hardcore of Kavari and Manny--they’re creating connectivity through the intensive bass. 
+Explosive color, lots of skin, sweaty, sexy, but intensely interior, insular. When you’re really dancing, lost inside, simultaneously so outside in an expressive sub that connects everyone. This was the (post-)hardcore of Kavari and Manny--they’re creating connectivity through bass. 
 
 The automatic doors at the Bushwick Art Center are jammed. It produced a loud, plastic grinding sound, repetitive and immediate. Then someone said Trump had been shot. 
 
