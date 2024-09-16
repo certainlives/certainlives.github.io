@@ -2,6 +2,8 @@
 layout: gallery-post
 title:  "teaching"
 date:   2024-09-16 08:39:42 -0400
+src: "../assets/img/teachingimage.jpeg"
+type: image
 
 ---
 
