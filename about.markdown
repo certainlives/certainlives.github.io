@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /about/
-thumbnail: ../assets/img/certainlivespressphoto.png # Change this URL for diff profile picture
+thumbnail: ../assets/img/certainlivesphoto.jpg # Change this URL for diff profile picture
 ---
 
 I am a researcher, noise musician, and poet. My research examines the political economy of do-
