@@ -9,7 +9,7 @@ zines
 
 symbiote zine [editor] (2024) ([print](../assets/pdf/symbiote zine complete.pdf))<br>
 liquid texture (2023) ([print](../assets/pdf/liquid texture zine_PRINT.pdf))<br>
-mutual aid and the limits of community (2022) ([read](../assets/pdf/DIY_READ.pdf/print)/[print](../assets/pdf/DIY_PRINT.pdf)<br>
+mutual aid and the limits of community (2022) ([read](../assets/pdf/DIY_READ.pdf/print)/[print](../assets/pdf/DIY_PRINT.pdf))<br>
 how to scam your way into the music industry [evil dentist] (2022) ([read](../assets/pdf/Craigslist_READ copy-compressed.pdf)/[print](assets/pdf/CL_PRINT copy-compressed.pdf))<br> 
 <br>
 poems <br>
