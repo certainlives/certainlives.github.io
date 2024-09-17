@@ -23,10 +23,10 @@ academic articles <br>
 [feeling pain/making kin in the brooklyn noise music scene](../assets/pdf/ldawes,+Farrow+106+Website.pdf) (2020) current musicology <br>
 <br>
 tiny mix tapes <br>
-<a href="[https://saras.world/I-think-im-in-trouble](https://www.tinymixtapes.com/features/matana-roberts-interview-coin-coin-chapter-4-memphis)">interview: matana roberts</a> (2019) 
-<a href="https://www.tinymixtapes.com/music-review/pharmakon-devour">review: pharmakon - devour</a> (2019)
-<a href="https://www.tinymixtapes.com/music-review/show-me-body-dog-whistle">review: show me the body - dog whistle</a> (2019)
-<a href="https://www.tinymixtapes.com/music-review/deli-girls-i-dont-know-how-be-happy">review: deli girls - i don't know how to be happy</a> (2019)
-<a href="https://www.tinymixtapes.com/music-review/machine-girl-ugly-art">review: machine girl - the ugly art</a> (2018)
-<a href="https://www.tinymixtapes.com/live-blog/sophie">live blog: SOPHIE</a> (2018)
-<a href="https://www.tinymixtapes.com/live-blog/mount-eerie-murmrr-theatre-09-12">live blog: mount eerie</a> (2017)
+<a href="[https://saras.world/I-think-im-in-trouble](https://www.tinymixtapes.com/features/matana-roberts-interview-coin-coin-chapter-4-memphis)">interview: matana roberts</a> (2019)<br> 
+<a href="https://www.tinymixtapes.com/music-review/pharmakon-devour">review: pharmakon - devour</a> (2019)<br>
+<a href="https://www.tinymixtapes.com/music-review/show-me-body-dog-whistle">review: show me the body - dog whistle</a> (2019)<br>
+<a href="https://www.tinymixtapes.com/music-review/deli-girls-i-dont-know-how-be-happy">review: deli girls - i don't know how to be happy</a> (2019)<br>
+<a href="https://www.tinymixtapes.com/music-review/machine-girl-ugly-art">review: machine girl - the ugly art</a> (2018)<br>
+<a href="https://www.tinymixtapes.com/live-blog/sophie">live blog: SOPHIE</a> (2018)<br>
+<a href="https://www.tinymixtapes.com/live-blog/mount-eerie-murmrr-theatre-09-12">live blog: mount eerie</a> (2017)<br>
