@@ -14,6 +14,7 @@ how to scam your way into the music industry [evil dentist] (2022) ([read](../as
 <br>
 poems <br>
 <br>
+<a href="https://github.com/certainlives/certainlives.github.io/blob/main/_blog/2024-09-12-summer-poems.markdown">summer poems</a> (2024)
 [gunshot fireflies](../assets/pdf/gunshot fireflies.pdf) (2023) <br>
 [for the rage](../assets/pdf/for the rage.pdf) (2023) <br>
 [3 poems](../assets/pdf/3 poems (2023).pdf) (2023) <br>
