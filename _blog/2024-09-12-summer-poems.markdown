@@ -141,7 +141,7 @@ Running Against Traffic
 
 Nike 
 
-All black
+All Black
 
 Visor 
 
@@ -149,28 +149,29 @@ Sunglasses
 
 On a Sunday Morning <br>
 <br>
+<br>
 Faggy Bitch
 
-Pug Licks her Face 
+Pug Licks Her Face 
 
 Blue Metal Bike 
 
 Dyke 
 
-On the highest gear
+On The Highest Gear
 
-Past by Acrylic Bikes 
+Past By Acrylic Bikes 
 
-I must be so beautiful 
-
+I Must Be So Beautiful 
+<br>
 
 Right Now 
 
-I am so beautiful 
+I Am So Beautiful 
 
-Like a witch 
+Like A Witch 
 
-Bathing in the weeds
+Bathing In The Weeds
 
 
 Hot Writer Bitch 
@@ -178,7 +179,7 @@ Hot Writer Bitch
 
 -
 
-I’ve finally become extremely hot. My hair framing my cheeks and jay bones. Give me a softness then lost in a psychedelic haze. My green eyes pierced through the “brat” green streak and we did listen to charli. My legs toned from walking and biking. I feel closer to my gender when I wear this mesh top from M, this cult-like robe. Maybe I tell the students my pronouns are they/she. I guess that’s what’s in a name.
+I’ve finally become extremely hot. My hair framing my cheeks and jaw bones, giving me a softness then lost in a psychedelic haze. My green eyes pierced through the “brat” green streak and we did listen to charli. My legs toned from walking and biking. I feel closer to my gender when I wear this mesh top from M, this cult-like robe. Maybe I tell the students my pronouns are they/she. I guess that’s what’s in a name.
 
 Talked about clowning in a park after leaving my airpods in the park with a cute, smart woman who found them on a date a week and a half later. A clown plays a good trick and maybe I’ve gotten away from trickfulness in my depression but I feel full of tricks in my zoloft-therapy-zen smoothie.
 
@@ -195,9 +196,6 @@ Heart-shaped-ring
 With a 
 
 Frowny face
-
-On it 
-
 
 Some tricks I liked: 
 
@@ -236,7 +234,7 @@ The neighborhood
 -
 
 Max Gordon Corner<br>
-
+<br>
 Lounging on the rock
 
 You are beautiful
@@ -291,7 +289,7 @@ Bottle of wine
 
 You’re so hot
 
-Wash cloth covered cum
+Washcloth covered cum
 
 In the afternoons of my solitude 
 
