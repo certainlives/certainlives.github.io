@@ -10,7 +10,7 @@ it-yourself music. I am interested in how the progressive and collectivist ethic
 <br>
 My research is interwoven with my performance practice. I organize experimental music and performance in venues, basements, apartments, parks, offices, galleries, moss gardens, bridges, scenic overlooks, and rooftops. Sometimes people dance, sometimes people stand still. Sometimes the music is abrasive, sometimes it’s groovy. My performances fold noise into erratic movements, atmospheric reflections, and screamed personal confessions. My poetry reflects on immediacy and intimacy. <br>
 <br>
-As an instructor, I have taught at Columbia University, New York University, and the North Carolina Governor’s School. Through courses on experimental music, communication, and philosophy, I have developed practice-based pedagogies that teach encourage students to develop their ideas through art, personal reflection, and social practice. <br>
+As an instructor, I have taught at Columbia University, New York University, and the North Carolina Governor’s School. Through courses on experimental music, communication, and philosophy, I have developed practice-based pedagogies that encourage students to develop their ideas through art, personal reflection, and social practice. <br>
 <br>
 In my free time, I paint, meditate, and grow my collection of clowns.
 
