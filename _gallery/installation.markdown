@@ -7,11 +7,11 @@ type: image
 ---
 Installation work 
 
+<i> My work is invested in how the act of listening constructs our ethics. Sound is transformed by attention. Within my recent work, I have focused on how attention to everyday environmental sounds (dripping water, running streams, bubbling water coolers, and rushing ocean waves) unveils complicated emotional attachments.</i>
+
 a prayer said in disbelief [release show] (2024)
 
-drip
-
-
+drip (2024)
 
 yours in dentistry [evil dentist] (2023) 
 
