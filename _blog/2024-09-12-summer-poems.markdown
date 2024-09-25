@@ -110,7 +110,7 @@ I’m the bugs eating my hairy legs
 Over an emotive free verse 
 
 
-<h1> <img src="../assets/img/smile.jpg" width="auto !important;" height="540px !important;" style="width:100%;"> </h1>
+<h1> <img src="../assets/img/smile.jpg" width="auto !important;" height="auto !important;" style="width:100%;"> </h1>
 
 
 -
@@ -272,7 +272,7 @@ Reestablish sanity
 
 Avoid electoral politics 
 
-<h1> <img src="../assets/img/stare.jpg" width="auto !important;" height="340px !important;" style="width:100%;"> </h1>
+<h1> <img src="../assets/img/stare.jpg" width="auto !important;" height="auto !important;" style="width:100%;"> </h1>
 
 
 -
