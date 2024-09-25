@@ -14,7 +14,7 @@ Co-Written with kaitlin simotics (@gallerypeace)
 
 ---------------
 
-<img src="../assets/img/spotlight.jpg" width="auto !important;" height="360px !important;" style="width:50%;">
+<img src="../assets/img/spotlight.jpg" width="auto !important;" height="auto !important;" style="width:100%;">
 
 Myrtle/Wycoff
 
@@ -39,7 +39,7 @@ Feiyue Shoes
 
 Remove the sink from the bathroom. Somewhere where you used to go to run into people you wanted to run into. The spotify is slipping, or skipping, or unable to fill the silence in the conversation. I almost swing around and stab my finger into someone’s eye. Got called a faggot on the street, contributed to the faggatory of the group. There’s a hairiness to the piece. There’s a deliberateness to the brush stroke. Buying paintings and taking them to clandestino. How do you communicate that you want their money without being too cloying? Act like you’ve already got the money. You don’t even need it. Overflowing with opportunity. 
 
-<img src="../assets/img/new york.jpg" width="auto !important;" height="360px !important;" style="width:50%;">
+<img src="../assets/img/new york.jpg" width="auto !important;" height="auto !important;" style="width:100%;">
 
 
 <i>imagine mounting an iPad 
