@@ -2,11 +2,9 @@
 layout: gallery-post
 title:  "installation"
 date:   2024-09-16 08:39:42 -0400
-src: "../assets/img/teachingimage.jpg"
+src: "../assets/img/doors.jpg"
 type: image
 ---
-Installation work 
-
 <i> My work is invested in how the act of listening constructs our ethics, how sound is transformed by attention. recent work has focused on how attention to everyday environmental sounds (dripping water, running streams, bubbling water coolers, and rushing ocean waves) unveils complicated emotional attachments. ongoing work reflects on the property conditions structuring performance. my current work examines echoes. </i>
 
 a prayer said in disbelief [release show] (2024)
@@ -17,11 +15,11 @@ yours in dentistry [evil dentist] (2023)
 
 <i> Staged at ISSUE Project’s Room’s 22 Boerum Theater, our third program “yours in dentistry” combined performances, a panel discussion with organizers of local DIY spaces, and an installation detailing the relationship between ISSUE Project Room and the real estate development company Two Trees Reality. The installation examined the forty year arch through which Two Trees Reality amassed property along the Brooklyn waterfront through buying buildings in neighborhoods heavily populated by artists in order to upscale these neighborhoods. Two Trees Reality’s transfer of the lease of 22 Boerum Place to ISSUE Project Room in the 2010s was contextualized within the installation as an ethical compromise forced upon the nonprofit by the real estate industry in order to gain access to space and funding. Presented alongside the performances and panel discussion, this program functioned as institutional critique, highlighting the divergent ways DIY spaces and nonprofit arts organizations interact with the real estate industry. </i>
 
-[Landscape: Brooklyn Waterfront]https://github.com/certainlives/certainlives.github.io/blob/556989798d9ee68c5079704791be5b967d3b0701/assets/pdf/kudzu.pdf (2023)
+[Landscape: Brooklyn Waterfront](https://github.com/certainlives/certainlives.github.io/blob/556989798d9ee68c5079704791be5b967d3b0701/assets/pdf/kudzu.pdf) (2023)
 
 <i> This installation submerges a speaker playing a loop of a segment of an oral history featuring David and Jane Walentas, the couple behind Two Trees Realty, within 10 gallons of East River Water. Within the recording, the couple discusses how they invested in East River waterfront areas populated by artists as a development strategy, identifying artists as a source of value and precursor to rising rents. Through a series of microphones, the sound of their voices moving through the water is captured and played through the accompanying speakers. </i>
 
-href="https://certainlives.github.io/blog/2025-05-20-DIY-Desires-and-Institutional-Needs-pt3.html">"some documents"</a> (2023)
+<a>href="https://certainlives.github.io/blog/2025-05-20-DIY-Desires-and-Institutional-Needs-pt3.html">"some documents"</a> (2023)
 
 <i> A research-based installation examining Two Trees Realty, ISSUE Project Room, and neoliberal urban development. </i>
 
@@ -35,13 +33,13 @@ href="https://certainlives.github.io/blog/2025-05-20-DIY-Desires-and-Institution
 
 [Phone Kudzu](https://github.com/certainlives/certainlives.github.io/blob/556989798d9ee68c5079704791be5b967d3b0701/assets/pdf/kudzu.pdf) [evil dentist] (2023)
 
-href="[https://docs.google.com/document/d/1Ixb3Cy40V4eJy4CY2fGZdKCtWVKhs7oh/edit?usp=sharing&ouid=106327183254073120694&rtpof=true&sd=true](https://certainlives.github.io/blog/2024-01-25-DIY-Desires-and-Institutional-Needs-pt1.html)">"Corporate Retreat"</a> [evil dentist] (2023)
+<a>href="[https://docs.google.com/document/d/1Ixb3Cy40V4eJy4CY2fGZdKCtWVKhs7oh/edit?usp=sharing&ouid=106327183254073120694&rtpof=true&sd=true](https://certainlives.github.io/blog/2024-01-25-DIY-Desires-and-Institutional-Needs-pt1.html)">"Corporate Retreat"</a> [evil dentist] (2023)
 
 [Horrors of Capitalism](https://github.com/certainlives/certainlives.github.io/blob/556989798d9ee68c5079704791be5b967d3b0701/assets/pdf/horrors.pdf) [evil dentist] (2022)
 
 <i>a haunted house</i>
 
-[Battle for Trash Bridge]https://github.com/certainlives/certainlives.github.io/blob/main/assets/pdf/Trash%20Bridge.pdf [evil dentist] (2022) 
+[Battle for Trash Bridge](https://github.com/certainlives/certainlives.github.io/blob/main/assets/pdf/Trash%20Bridge.pdf) [evil dentist] (2022) 
 
 <i>our event “The Battle for Trash Bridge” involved a night of noise and experimental electronic performances organized around an underutilized public bridge.</i>
 
