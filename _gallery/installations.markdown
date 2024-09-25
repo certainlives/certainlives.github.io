@@ -19,7 +19,7 @@ yours in dentistry [evil dentist] (2023)
 
 <i> This installation submerges a speaker playing a loop of a segment of an oral history featuring David and Jane Walentas, the couple behind Two Trees Realty, within 10 gallons of East River Water. Within the recording, the couple discusses how they invested in East River waterfront areas populated by artists as a development strategy, identifying artists as a source of value and precursor to rising rents. Through a series of microphones, the sound of their voices moving through the water is captured and played through the accompanying speakers. </i>
 
-<a> href="https://certainlives.github.io/blog/2025-05-20-DIY-Desires-and-Institutional-Needs-pt3.html">some documents</a> (2023)
+<a href="https://certainlives.github.io/blog/2025-05-20-DIY-Desires-and-Institutional-Needs-pt3.html">some documents</a> (2023)
 
 <i> A research-based installation examining Two Trees Realty, ISSUE Project Room, and neoliberal urban development. </i>
 
@@ -27,19 +27,19 @@ yours in dentistry [evil dentist] (2023)
 
 <i> our first program “Stuck at the Office” involved a durational installation and performance piece wherein two musicians navigated the cubicles and water coolers of an unused office space. The durational aspect of the performance transformed the mundane office into a space for community formation through asking audience members to engage with one another and with sound sculptures prepared by evil dentist. </i>
 
-[The Never-Ending Break Room](../pdf/break.pdf) [evil dentist] (2023)
+[The Never-Ending Break Room](../assets/pdf/break.pdf) [evil dentist] (2023)
 
 <i>An installation is composed of an interconnected set of water coolers connected to speakers to amplify the sound of water dripping into the water cooler. These two images illustrate one of the water coolers and the accompanying conceptual wall text. </i>
 
 [Phone Kudzu](../assets/pdf/kudzu.pdf) [evil dentist] (2023)
 
-<a>href="(https://certainlives.github.io/blog/2024-01-25-DIY-Desires-and-Institutional-Needs-pt1.html)">"Corporate Retreat"</a> [evil dentist] (2023)
+<a href="(https://certainlives.github.io/blog/2024-01-25-DIY-Desires-and-Institutional-Needs-pt1.html)">"Corporate Retreat"</a> [evil dentist] (2023)
 
 [Horrors of Capitalism](../assets/pdf/horrors.pdf) [evil dentist] (2022)
 
 <i>a haunted house</i>
 
-[Battle for Trash Bridge](../assets/pdf/Trash Bridge.pdf) [evil dentist] (2022) 
+[Battle for Trash Bridge](../assets/pdf/trash.pdf) [evil dentist] (2022) 
 
 <i>our event “The Battle for Trash Bridge” involved a night of noise and experimental electronic performances organized around an underutilized public bridge.</i>
 
