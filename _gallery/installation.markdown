@@ -39,7 +39,7 @@ yours in dentistry [evil dentist] (2023)
 
 <i>a haunted house</i>
 
-[Battle for Trash Bridge](https://github.com/certainlives/certainlives.github.io/blob/main/assets/pdf/Trash%20Bridge.pdf) [evil dentist] (2022) 
+[Battle for Trash Bridge](.../assets/pdf/Trash%20Bridge.pdf) [evil dentist] (2022) 
 
 <i>our event “The Battle for Trash Bridge” involved a night of noise and experimental electronic performances organized around an underutilized public bridge.</i>
 
