@@ -1,6 +1,6 @@
 ---
 layout: gallery-post
-title:  "installation"
+title:  "installations"
 date:   2024-09-16 08:39:42 -0400
 src: "../assets/img/doors.jpg"
 type: image
@@ -19,7 +19,7 @@ yours in dentistry [evil dentist] (2023)
 
 <i> This installation submerges a speaker playing a loop of a segment of an oral history featuring David and Jane Walentas, the couple behind Two Trees Realty, within 10 gallons of East River Water. Within the recording, the couple discusses how they invested in East River waterfront areas populated by artists as a development strategy, identifying artists as a source of value and precursor to rising rents. Through a series of microphones, the sound of their voices moving through the water is captured and played through the accompanying speakers. </i>
 
-<a> href="https://certainlives.github.io/blog/2025-05-20-DIY-Desires-and-Institutional-Needs-pt3.html"> "some documents" </a> (2023)
+<a> href="https://certainlives.github.io/blog/2025-05-20-DIY-Desires-and-Institutional-Needs-pt3.html">some documents</a> (2023)
 
 <i> A research-based installation examining Two Trees Realty, ISSUE Project Room, and neoliberal urban development. </i>
 
@@ -43,7 +43,7 @@ yours in dentistry [evil dentist] (2023)
 
 <i>our event “The Battle for Trash Bridge” involved a night of noise and experimental electronic performances organized around an underutilized public bridge.</i>
 
-[Butterflowers](../assets/pdf/perfect human.pdf) [david & rick] (2022)
+[Butterflowers](../assets/pdf/perfecthuman.pdf) [david & rick] (2022)
 
 <i> a collaborative installation in which attendees can wander through the void in real time, reflecting on all of the mistakes that have led them to the intersection of arts and technology. Friday July 15th experience butterflowers: how to become the perfect human @wondervillenyc grounded in butterflowers's void and inspired by surveillance culture, facial augmentation software in photo booths, butterflies wearing cowboy boots, and breakcore, the installation deploys audio/visual interactivity between hardware samplers and the game's AI to immerse participants within an alien landscape. combining webcam surveillance footage with multi-channel projections, the project asks how long can one stare at themself before they become unrecognizable. </i>
 
