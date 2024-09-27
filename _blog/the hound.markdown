@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "the hound"
-date:   2024-09-12 08:39:42 -0000
+date:   2020-09-12 08:39:42 -0000
 categories: jekyll update
 ---
 
-5:45pm nyc 
-12:55am richmond
-3:55am raleigh
+5:45pm nyc <br>
+12:55am richmond <br>
+3:55am raleigh <br>
 
 i told myself i would never take the greyhound again. The previous times had been terrible times in my life. Moments of disconnection from life, from the love i thought i held. i'm not a season greyound rider. But it only takes one ride to detest the company. They treat their riders like shit.<br>
 <br>
@@ -20,3 +20,5 @@ I stare at the hound. He runs through the air. Body extended to the maximum dist
 When you're stuck in the greyhound terminal, you have to ask yourself how you got into this situation. There is usually a series of mistakes that precede the moment of being fucked over by the greyhound, that almost make you fell worthy of being fucked over, as if your poor descision-making is being rewarded. I want to be worthy of the greyhound.<br>
 <br>
 The greyhound is not fun. The bus and the terminals all feel vaguely unsafe. At 520, the tweaker couple is having a hard time. They're shaking and crying, fighting and hugging. There's a frenetic energy that's collapsing in on itself. They use their too-big white t-shirts to wipe away their tears. I think the greyhound experience is inescapable from voyuerism. The terminal and the bus are public stages. Whatever misfortune and difficulty is being played out in such promximity to others. Everyone's been awake too long, mixing together in this dingy dystopia.<br>
+<br>
+Years ago, i  was at this same terminal, stuck because the driver left and greyhound was unable to find another driver. I had left new york near midnight. The better part of two weeks had been spent bouncing between friends' couches, waiting for the moment i became an inconvenience. The three weeks before that hadd been spent on tour on the east coast and the midwest. 
