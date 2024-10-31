@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "the old man: a long overdue review of megalopolis"
+date:   2024-10-30 08:39:42 -0000
+categories: jekyll update
+---
+Embarssingly, I saw megalopolis immediately. I was so underwhelmed that, despite drafting this review on my way home from the theater, i forgot to post it. Now, into the void:<br>
+<br>
 What must eric adams be thinking? the feds seized his phone. The standard corruption now receives higher scrutiny. No one in new york is surprised by a crooked cop. I feel like celebrating his downfall. Look what they've done to my beautiful boy! And what better way than w/ Francis Ford Coppola's <i>Megalopolis</i><br>
 <br>
 The old man has lost it. He sold off the vineyard; he's widely derided as a creep (but, as wild card mayorial candidate andrew cuomo will tell you, he's just being italian); he either used AI or fabricated negative quotes from critics himself; he wanted eitehr a live actor or an interactive ai to burst into each theater; he's set for a disasterous opening weekend. The megalopolis lore can go on and on and on. <br>
