@@ -4,6 +4,189 @@ title:  "fall winter poems"
 date:   2020-09-12 08:39:42 -0000
 categories: jekyll update
 ---
+
+who are they the children of? <br> 
+<br> 
+<br> 
+My absence of discipline <br>
+Reflects <br> 
+My difficulties with self-love. <br>
+I need to recontextualize discipline <br>
+as an act of self-love. <br>
+<br> 
+Modulation <br>
+<br>
+Appreciation. A discipline of self-love. <br>
+<br>
+<br>
+a candle at the vigil <br> 
+<br>
+Hear the ringing <br>
+in your ears <br>
+as the grief <br>
+of the world. <br>
+<br>
+Feel the string <br>
+of autumn <br>
+air <br> 
+<br>
+Everything moves <br>
+at its <br>
+proper <br>
+pace. <br> 
+<br>
+<br> 
+Kicking Glass <br>
+Bloom Stains <br>
+Dog Hair <br>
+Cream Tile <br>
+Caked Dirt <br>
+Onion Peel <br>
+Walk Walk <br>
+Cover Toe <br>
+BLood Stains <br>
+Paper Towel <br> 
+Foot Steps <br> 
+Black Plastic <br>
+Trash Bag <br>
+Walk Back <br>
+Drop Hay <br>
+Fumble <br> 
+<br>
+<br> 
+A prayer for headphones <br>
+<br>
+May I walk down the street <br>
+Ensconsced in sound <br>
+So I may hear <br>
+My own thoughts <br>
+My own taste <br>
+My own love with the world <br>
+I have created for myself <br>
+<br>
+May I ignore my neighbor <br>
+Put plastic, rubber, and foam <br>
+Between the conversation <br>
+The interaction <br>
+The exchange <br>
+On my way out the door <br> 
+<br>
+<br>
+Nowadays <br>
+<br>
+Sitting on the wooden platform <br>
+I hear a voice in my head <br> 
+the one that finds <br>
+in each movement <br>
+an affirmation <br>
+love <br>
+for <br>
+myself <br>
+I think about the cycle of breath and self, that each momement I breathe in, I bring into being my self. <br>
+"That's waht its for," a dancer remarks, <br>
+as if mocking my need <br>
+to put into words <br>
+what can be expressed in movement. <br>
+A trickster trans girl <br>
+mocking in that way that good clowns do, <br>
+where you find what's already known. <br>
+<br>
+And maybe I feel the pull of someone <br>
+who feels in a similar way to me. <br>
+I feel clumsy and excited, the giddy <br>
+of knowing I might slip. <br>
+And how far to fall <br>
+between becoming a girl <br>
+falling in love <br>
+or falling in love <br>
+with myself <br>
+as a girl <br>
+in love. <br>
+<br>
+Not to get <br>
+Too caught <br>
+Crushed <br>
+But to feel <br>
+Like the sidewalks <br>
+Stumbled between <br>
+Writhing bodies <br>
+At the electric distance <br>
+Where I am far enough <br>
+To lose the space <br>
+Between our feet. <br>
+Laugh, Trip, Stumble <br>
+<br>
+<br>
+Jade Refracts <br> 
+Kisses fall <br> 
+Uncovered sleave <br>
+Dance once a week <br>
+What if I want to fuck you <br>
+And figure out our connection later <br>
+I'd dream <br>
+In nights spent <br>
+Dancing <br>
+Losing myself <br>
+In your breadth <br>
+<br>
+Drunk on the B Train <br> 
+Crushing Orange Line Beers <br>
+Grand Street Bound <br>
+Too Slutty <br>
+Too Smart <br>
+My words caught in my mouth <br>
+Fell asleep <br>
+So long ago <br>
+Erica on the train <br>
+My concrete brain <br>
+Everyone at Columbia <br>
+Looks at me <br>
+Like I'm a faggot <br>
+They must be 
+So Smart <br>
+To Notice. <br>
+<br>
+My biggest flaw <br>
+Is that I don't <br>
+See <br>
+My own <br>
+Beauty <br>
+<br>
+Drunk on the B train <br>
+Writing poetry to find <br>
+The rush of my glance <br>
+Meeting yours <br>
+<br>
+Drunk on the B train <br>
+I refuse to leave <br>
+I kick my feet up <br>
+Spit My Beer <br>
+Fuck You <br>
+I am a faggot <br>
+Fucking women <br>
+Fucking men <br> 
+I'm the shallow pool of spit <br>
+We bathe in <br>
+We breathe in <br>
+<br>
+<br> 
+Pull-ups <br>
+On the railing <br>
+The J train rattles by <br>
+Yawning autumn <br>
+Against the Williamsburg high rise <br>
+Nourish the cramped kitchen <br>
+Let the smoke flow <br>
+From the haunted toaster <br>
+Spitting flames <br>
+Half past <br>
+My forgetful face <br>
+Pressed against the grimy scene <br>
+Bike by <br>
+Stop <br>
+But turn around <br> 
+<br>
+<br>
 Your Polaroid <br>
 A photo of us <br> 
 From an Ashville bar <br>
@@ -75,7 +258,7 @@ Can you hear them? <br>
 Where does the sound exist? <br>
 Pan <br>
 Echo <br>
-
+<br>
 Dancing, an image <br>
 <br>
 The carpet gave too much <br>
