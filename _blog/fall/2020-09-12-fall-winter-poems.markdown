@@ -267,7 +267,7 @@ Dancing, an image <br>
 The carpet gave too much <br>
 with my step <br>
 not quite finding <br>
-the rhythm <b>
+the rhythm <br>
 of interlacing hands <br>
 of jumps and crashes <br>
 "i thought about dancing with you" <br>
