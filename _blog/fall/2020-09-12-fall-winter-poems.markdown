@@ -4,7 +4,9 @@ title:  "fall winter poems"
 date:   2020-09-12 08:39:42 -0000
 categories: jekyll update
 ---
-
+a collection of poems written from fall-winter 2024
+<br>
+<br>
 who are they the children of? <br> 
 <br> 
 <br> 
@@ -37,6 +39,7 @@ pace. <br>
 <br>
 <br> 
 Kicking Glass <br>
+<br>
 Bloom Stains <br>
 Dog Hair <br>
 Cream Tile <br>
@@ -117,6 +120,8 @@ Between our feet. <br>
 Laugh, Trip, Stumble <br>
 <br>
 <br>
+Drunk <br>
+<br>
 Jade Refracts <br> 
 Kisses fall <br> 
 Uncovered sleave <br>
@@ -188,6 +193,7 @@ But turn around <br>
 <br>
 <br>
 Your Polaroid <br>
+<br>
 A photo of us <br> 
 From an Ashville bar <br>
 Fell out from my journal <br>
@@ -221,7 +227,7 @@ compassion <br>
 or my selfish desire <br>
 to let live <br>
 what will die <br>
-
+<br>
 <br>
 A score for four ppl <br>
 1) Think of your name <br>
@@ -230,9 +236,8 @@ A score for four ppl <br>
 4) Introduce yourself <br>
 5) Take your partners name. <br>
 6) Go through your day with a new name. <br> 
-<br> 
-
-
+<br>
+<br>
 scratch, jest, ride, drink, advance <br>
 <br>
 This is of a place, spiraling through the circuit party at market, maybe too many drinks and joints along the east river <br>
@@ -246,9 +251,6 @@ And I am caught in the movement of modulation, cycles, pusling tangled webs, roo
 I do not have the language of freedom. <br>
 <br>
 <br> 
-
-
-
 How do you hear a place? <br>
 Take out a sheet of paper <br>
 close your eyes <br>
@@ -258,6 +260,7 @@ Can you hear them? <br>
 Where does the sound exist? <br>
 Pan <br>
 Echo <br>
+<br>
 <br>
 Dancing, an image <br>
 <br>
@@ -300,6 +303,7 @@ from the fumbled assemblage of self <br>
 From youth becoming a whisper of presence <br>
 Among the faces in the crowd <br> 
 <br>
+<br>
 "Mansions" <br> 
 There was a moment of truth <br> 
 In the afterglow of spurned affection <br> 
@@ -331,5 +335,3 @@ all to curl up <br>
 in the space <br>
 in between. <br>
 <br>
-
-
