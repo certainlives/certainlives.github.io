@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "fall/winter poems"
+title:  "fall winter poems"
 date:   2020-09-12 08:39:42 -0000
 categories: jekyll update
 ---
