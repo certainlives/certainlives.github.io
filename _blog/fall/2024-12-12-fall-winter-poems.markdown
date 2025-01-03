@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 a collection of poems written from fall-winter 2024
 <br>
-<h1> <img src="../assets/img/face fairy.jpg" width="auto !important;" height="auto !important;" style="width:100%;"> </h1>
+<h1> <img src="certainlives.github.io/assets/img/staring at faces.jpg" width="auto !important;" height="auto !important;" style="width:100%;"> </h1>
 <br>
 who are they the children of? <br> 
 <br> 
