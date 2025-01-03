@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "fall winter poems"
-date:   2020-09-12 08:39:42 -0000
+date:   2024-12-12 08:39:42 -0000
 categories: jekyll update
 ---
 a collection of poems written from fall-winter 2024
@@ -28,9 +28,8 @@ in your ears <br>
 as the grief <br>
 of the world. <br>
 <br>
-Feel the string <br>
-of autumn <br>
-air <br> 
+Feel the sting <br>
+of autumn air <br> 
 <br>
 Everything moves <br>
 at its <br>
@@ -40,14 +39,14 @@ pace. <br>
 <br> 
 Kicking Glass <br>
 <br>
-Bloom Stains <br>
+Blood Stains <br>
 Dog Hair <br>
 Cream Tile <br>
 Caked Dirt <br>
 Onion Peel <br>
 Walk Walk <br>
 Cover Toe <br>
-BLood Stains <br>
+Blood Stains <br>
 Paper Towel <br> 
 Foot Steps <br> 
 Black Plastic <br>
@@ -86,7 +85,7 @@ love <br>
 for <br>
 myself <br>
 I think about the cycle of breath and self, that each momement I breathe in, I bring into being my self. <br>
-"That's waht its for," a dancer remarks, <br>
+"That's what its for," a dancer remarks, <br>
 as if mocking my need <br>
 to put into words <br>
 what can be expressed in movement. <br>
@@ -122,7 +121,7 @@ Laugh, Trip, Stumble <br>
 <br>
 Drunk <br>
 <br>
-Jade Refracts <br> 
+Jade refracts <br> 
 Kisses fall <br> 
 Uncovered sleave <br>
 Dance once a week <br>
@@ -176,6 +175,7 @@ We breathe in <br>
 <br>
 <br> 
 Pull-ups <br>
+<br>
 On the railing <br>
 The J train rattles by <br>
 Yawning autumn <br>
@@ -195,7 +195,7 @@ But turn around <br>
 Your Polaroid <br>
 <br>
 A photo of us <br> 
-From an Ashville bar <br>
+From an Asheville bar <br>
 Fell out from my journal <br>
 I hadn't noticed it <br>
 Tucked between the unwritten pages <br>
@@ -208,7 +208,7 @@ Then the press of your lips as the shuttered closed <br>
 On a photo of us <br> 
 <br> 
 <br> 
-A mouse <br>
+A Mouse <br>
 curled up <br>
 on my kitchen floor <br>
 writhing <br>
@@ -226,7 +226,7 @@ from my sight <br>
 compassion <br>
 or my selfish desire <br>
 to let live <br>
-what will die <br>
+what will die. <br>
 <br>
 <br>
 A score for four ppl <br>
@@ -282,6 +282,7 @@ Unearthed, Unearned Confidence <br>
 <br>
 <br>
 There's something funny <br>
+<br>
 To seeing your ex <br>
 In other people. <br>
 At first, <br>
@@ -289,7 +290,7 @@ The Fear <br>
 of an unplanned encounter <br>
 of a flood of emotions <br>
 from hands gliding through a mullet <br>
-from plucking the matrix hat off to find their face <br>
+from plucking the hat off to find their face <br>
 the fading ache <br>
 of nights grasping each other's form <br>
 of finding the momentary embrace of a bathroom stall <br>
@@ -314,7 +315,8 @@ In the after glow <br>
 <br> 
 <br> 
 Liminal notes <br>
-lost between <br>
+<br>
+Lost between <br>
 the devil and the cloud <br>
 a pretzel and a carrot <br>
 my classroom or my desk. <br>
