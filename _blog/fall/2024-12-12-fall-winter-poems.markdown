@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 a collection of poems written from fall-winter 2024
 <br>
-<h1> <img src="[../assets/img/staring at faces.jpg](https://github.com/certainlives/certainlives.github.io/blob/859fbc870aa9c5cfc02151f7fa297c7cd1ffbac4/assets/img/staring%20at%20faces.jpg)" width="auto !important;" height="auto !important;" style="width:100%;"> </h1>
+<h1> <img src="https://github.com/certainlives/certainlives.github.io/blob/859fbc870aa9c5cfc02151f7fa297c7cd1ffbac4/assets/img/staring%20at%20faces.jpg" width="auto !important;" height="auto !important;" style="width:100%;"> </h1>
 <br>
 who are they the children of? <br> 
 <br> 
@@ -21,7 +21,7 @@ Modulation <br>
 <br>
 Appreciation. A discipline of self-love. <br>
 <br>
-<h1> <img src="../assets/img/ringing.jpg" width="auto !important;" height="auto !important;" style="width:100%;"> </h1>
+<h1> <img src="https://github.com/certainlives/certainlives.github.io/blob/93e33f1c5d93f7ec3b16636aa082fd3327147201/assets/img/ringing.jpg" width="auto !important;" height="auto !important;" style="width:100%;"> </h1>
 <br>
 a candle at the vigil <br> 
 <br>
@@ -75,7 +75,7 @@ The interaction <br>
 The exchange <br>
 On my way out the door <br> 
 <br>
-<h1> <img src="../assets/img/community.jpeg" width="auto !important;" height="auto !important;" style="width:100%;"> </h1>
+<h1> <img src="https://github.com/certainlives/certainlives.github.io/blob/93e33f1c5d93f7ec3b16636aa082fd3327147201/assets/img/community.jpg" width="auto !important;" height="auto !important;" style="width:100%;"> </h1>
 <br>
 Nowadays <br>
 <br>
@@ -176,7 +176,7 @@ I'm the shallow pool of spit <br>
 We bathe in <br>
 We breathe in <br>
 <br>
-<h1> <img src="../assets/img/a stage.jpg" width="auto !important;" height="auto !important;" style="width:100%;"> </h1>
+<h1> <img src="https://github.com/certainlives/certainlives.github.io/blob/93e33f1c5d93f7ec3b16636aa082fd3327147201/assets/img/a%20stage.jpg" width="auto !important;" height="auto !important;" style="width:100%;"> </h1>
 <br> 
 Pull-ups <br>
 <br>
@@ -254,7 +254,7 @@ And I am caught in the movement of modulation, cycles, pusling tangled webs, roo
 <br>
 I do not have the language of freedom. <br>
 <br>
-<h1> <img src="../assets/img/knowledge.jpg" width="auto !important;" height="auto !important;" style="width:100%;"> </h1>
+<h1> <img src="https://github.com/certainlives/certainlives.github.io/blob/93e33f1c5d93f7ec3b16636aa082fd3327147201/assets/img/knowledge.jpg" width="auto !important;" height="auto !important;" style="width:100%;"> </h1>
 <br> 
 How do you hear a place? <br>
 Take out a sheet of paper <br>
