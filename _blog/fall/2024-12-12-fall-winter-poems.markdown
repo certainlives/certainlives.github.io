@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 a collection of poems written from fall-winter 2024
 <br>
-<h1> <img src="https://github.com/certainlives/certainlives.github.io/blob/859fbc870aa9c5cfc02151f7fa297c7cd1ffbac4/assets/img/staring%20at%20faces.jpg" width="auto !important;" height="auto !important;" style="width:100%;"> </h1>
+<h1> <img src="../assets/img/staring%20at%20faces.jpg" width="auto !important;" height="auto !important;" style="width:100%;"> </h1>
 <br>
 who are they the children of? <br> 
 <br> 
