@@ -49,7 +49,6 @@ To the edifice
 
 Of a hallowed building 
 
-<br>
 How many gardens will grow 
 
 From my cuts and scrapes?
