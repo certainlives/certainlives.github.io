@@ -220,7 +220,8 @@ The railing that stretched past
 My exasperated feet 
 
 Falling to the street that kept running and running away 
-<br>
+
+
 In the orange gold glisten 
 
 Of a face peeled off
@@ -242,7 +243,8 @@ Marbled curves
 That used to cradle 
 
 An unremembered name
-<br>
+
+
 In the walk from Hester 
 
 Past the goth McDonalds 
@@ -250,11 +252,11 @@ Past the goth McDonalds
 On the way to the vegan dim sum
 
 But not quite 
-<br>
+
 It is the fragment 
 
 Of a step 
-<br>
+
 A forced remembrance 
 
 <br>
