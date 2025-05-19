@@ -5,25 +5,24 @@ date:   2025-05-19 08:39:42 -0000
 categories: jekyll update
 ---
 
-Like casting stones 
-<br>
+<i>Like casting stones</i> 
 
 Like casting stones 
 
 Things move 
 
 At their proper pace 
-<br>
+
 Charging money for zines 
-<br>
+
 Do I recognize you 
-<br>
+
 Or am I forgetting 
-<br>
+
 Writing in ink I can’t see 
 <br>
 <br>
-Watching Anime 
+<i>Watching Anime</i>
 
 
 I roll out of bed at noon
@@ -65,7 +64,8 @@ For my dinner alone
 <br>
 <br>
 <img src="../assets/img/buddha.jpg" width="auto !important;" height="360px !important;" style="width:50%;">
-Before The Honored World 
+
+<i>Before The Honored World</i>
 <br>
 Not all seek blessings
 
@@ -101,7 +101,7 @@ I’ll leave before finding the temple
 Not all seek a destination. 
 <br>
 <br>
-Wisdom Teeth 
+<i>Wisdom Teeth</i>
 <br>
 I know enough
 
@@ -147,7 +147,7 @@ Of the story
 Of their life
 <br>
 <br>
-Bar 169
+<i>Bar 169</i>
 <br>
 Sometimes, I’m fun.
 
@@ -164,7 +164,7 @@ But there were always worse hangovers, irritated intestines, and snoozes on the 
 Passion v. stability, another drink v. the hangover, emotional tumult v. the simple life, a complacent self-protection reflected in the empty cup. 
 <br>
 <br>
-3.23
+<i>3.23</i>
 <br>
 On the rooftop 
 
@@ -198,7 +198,8 @@ That fail to fall
 <br>
 <br>
 <img src="../assets/img/skin.jpg" width="auto !important;" height="360px !important;" style="width:50%;">
-Valentine’s Day 
+
+<i>Valentine’s Day</i>
 <br>
 In the green blonde speckle 
 
@@ -251,7 +252,7 @@ Of a step
 A forced remembrance 
 <br>
 <br>
-No Sex Last Night 
+<a href="https://www.youtube.com/watch?v=l7BhrpZjQCk"><i>No Sex Last Night</i></a>
 <br>
 I felt each mechanic’s visit 
 
