@@ -5,6 +5,8 @@ date:   2025-05-19 08:39:42 -0000
 categories: jekyll update
 ---
 
+some poems written during the winter of 2024-2025. 
+
 <i>Like casting stones</i> 
 
 Like casting stones 
