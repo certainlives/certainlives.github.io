@@ -7,6 +7,7 @@ categories: jekyll update
 
 Like casting stones 
 <br>
+
 Like casting stones 
 Things move 
 At their proper pace 
@@ -21,7 +22,8 @@ Writing in ink I can’t see
 <br>
 <br>
 Watching Anime 
-<br>
+
+
 I roll out of bed at noon
 
 Try to make tacos, but the damp tortilla folds into the flame
@@ -60,6 +62,7 @@ As I slice an avocado
 For my dinner alone
 <br>
 <br>
+<img src="../assets/img/buddha.jpg" width="auto !important;" height="360px !important;" style="width:50%;">
 Before The Honored World 
 <br>
 Not all seek blessings
@@ -192,6 +195,7 @@ Of erect titans
 That fail to fall 
 <br>
 <br>
+<img src="../assets/img/skin.jpg" width="auto !important;" height="360px !important;" style="width:50%;">
 Valentine’s Day 
 <br>
 In the green blonde speckle 
