@@ -20,7 +20,7 @@ Do I recognize you
 Or am I forgetting 
 
 Writing in ink I can’t see 
-<br>
+
 <br>
 <i>Watching Anime</i>
 
@@ -60,10 +60,11 @@ From the kitchen knife confusion
 As I slice an avocado 
 
 For my dinner alone
-<br>
+
 <br>
 <img src="../assets/img/buddha.jpg" width="auto !important;" height="360px !important;" style="width:50%;">
 
+<br>
 <i>Before The Honored World</i>
 
 
@@ -95,11 +96,10 @@ I forget that my eyes are weak muscles
 
 Strained by flashing lights and dully fantasy.
 
-<br>
 I’ll leave before finding the temple
 
 Not all seek a destination. 
-<br>
+
 <br>
 <i>Wisdom Teeth</i>
 
@@ -110,7 +110,7 @@ To know
 
 What I do not know 
 
-<br>
+
 My students 
 
 Know enough
@@ -122,7 +122,7 @@ Everything they need
 To live a life
 
 That’s unknown 
-<br>
+
 My students 
 
 Don’t know 
@@ -146,7 +146,7 @@ In the sacred fragment
 Of the story 
 
 Of their life
-<br>
+
 <br>
 <i>Bar 169</i>
 
@@ -164,7 +164,7 @@ Those were chaotic, but affirming moments for me. In the slippage past sobriety,
 But there were always worse hangovers, irritated intestines, and snoozes on the train. Less the flaming out of youth, more the implosion of self. A flailing rather than a splashing about. 
 <br>
 Passion v. stability, another drink v. the hangover, emotional tumult v. the simple life, a complacent self-protection reflected in the empty cup. 
-<br>
+
 <br>
 <i>3.23</i>
 
@@ -202,6 +202,7 @@ That fail to fall
 <br>
 <img src="../assets/img/skin.jpg" width="auto !important;" height="360px !important;" style="width:50%;">
 
+<br>
 <i>Valentine’s Day</i>
 
 
@@ -254,7 +255,7 @@ It is the fragment
 Of a step 
 <br>
 A forced remembrance 
-<br>
+
 <br>
 <a href="https://www.youtube.com/watch?v=l7BhrpZjQCk"><i>No Sex Last Night</i></a>
 
