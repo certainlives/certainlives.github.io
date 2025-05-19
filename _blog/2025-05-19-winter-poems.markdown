@@ -9,7 +9,9 @@ Like casting stones
 <br>
 
 Like casting stones 
+
 Things move 
+
 At their proper pace 
 <br>
 Charging money for zines 
