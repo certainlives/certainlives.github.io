@@ -65,7 +65,8 @@ For my dinner alone
 <img src="../assets/img/buddha.jpg" width="auto !important;" height="360px !important;" style="width:50%;">
 
 <i>Before The Honored World</i>
-<br>
+
+
 Not all seek blessings
 
 Not all seek wisdom 
@@ -101,7 +102,8 @@ Not all seek a destination.
 <br>
 <br>
 <i>Wisdom Teeth</i>
-<br>
+
+
 I know enough
 
 To know 
@@ -147,7 +149,8 @@ Of their life
 <br>
 <br>
 <i>Bar 169</i>
-<br>
+
+
 Sometimes, I’m fun.
 
 Sometimes, I’m not.
@@ -164,7 +167,8 @@ Passion v. stability, another drink v. the hangover, emotional tumult v. the sim
 <br>
 <br>
 <i>3.23</i>
-<br>
+
+
 On the rooftop 
 
 I want to watch 
@@ -199,7 +203,8 @@ That fail to fall
 <img src="../assets/img/skin.jpg" width="auto !important;" height="360px !important;" style="width:50%;">
 
 <i>Valentine’s Day</i>
-<br>
+
+
 In the green blonde speckle 
 
 Of the misheard turn of phrase
@@ -252,7 +257,8 @@ A forced remembrance
 <br>
 <br>
 <a href="https://www.youtube.com/watch?v=l7BhrpZjQCk"><i>No Sex Last Night</i></a>
-<br>
+
+
 I felt each mechanic’s visit 
 
 Roadside rescue
