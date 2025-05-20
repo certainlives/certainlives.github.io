@@ -162,7 +162,7 @@ That’s ok.
 
 I try to remember what brought me here with E. Beyond the cheap beer, I always felt a frenetic energy, a way in which our conversations spiraled out from each beer and shot. I remember one time I brought F; the three of us drank and drank and drank. Maybe that’s part of why some friendships no longer work. 
 
-Those were chaotic, but affirming moments for me. In the slippage past sobriety, where that uninhibited flow led to delusions of grandeur, aging writers, relationships that didn’t quite fit but we each held on to the possibility of enduring love–somewhere between whining and earning, spread across every stop and start, I felt us fumble toward an understanding, a friendship. 
+Those were chaotic, but affirming moments for me. In the slippage past sobriety, where that uninhibited flow led to delusions of grandeur, aging writers, relationships that didn’t quite fit but we each held on to the possibility of enduring love–somewhere between whining and yearning, spread across every stop and start, I felt us fumble toward an understanding, a friendship. 
 
 But there were always worse hangovers, irritated intestines, and snoozes on the train. Less the flaming out of youth, more the implosion of self. A flailing rather than a splashing about. 
 
