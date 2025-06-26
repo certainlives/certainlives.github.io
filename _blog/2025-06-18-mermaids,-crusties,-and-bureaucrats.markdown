@@ -45,6 +45,8 @@ The repetitive entropy of altered states; or the repetition of euphoria in alter
 In the archives of Maciunas held at the Museum of Modern Art, I stumbled across the ledger for his Fluxhouses–Maciunas’s illegal efforts to convert lofts in SoHo into artist coops in the 1960s. In his detailed notes, I found a July 1968 payment of $80 for “A.C. plumbing water lines” to the renowned plumber Phillip Glass. 
 
 In the space of illegality, where the rules of the bureaucrats and the police are suspended, friendship blooms. The rupture rather than the sanded edges of the state unfold the relationships that sustain us. An undated flyer for “Fluxfest presents: 12! Big Names” lists Phillip Glass performing at the same building he did the plumbing for. Was it before or after? Does it matter? Good anarchists have bad memories.  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ckTarFE3-Oc?si=8kUhQPhclHVDy8wQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=ckTarFE3-Oc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <br>
