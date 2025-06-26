@@ -20,7 +20,7 @@ But we left the train before I found out. M remarked that the punk had a beautif
 <br>
 –
 <br>
-<img src="[mermaid.jpeg](https://github.com/certainlives/certainlives.github.io/blob/main/assets/img/mermaid.jpeg)" width="auto !important;" height="360px !important;">
+<img src="../mermaid.jpeg" width="auto !important;" height="360px !important;">
 <br>
 I’m at the Mermaid Parade unsure if the purple and pink mermaid with the Palestinian flag centered within her sprawling scales should have brought her pug to the sunny procession. His tongue flaps in the hot Coney Island air. I watch the elder DJs in their captains’ caps guide the dancing mermaids with their throbbing shanties. The East Village Mermaids strut down the street, glittering chests soaking up the June sun. A large octopus haunts the procession, sovereign might that I speak about in hurried tones. Too have the bliss of a mermaid, lost in a sea of dance and song. 
 
@@ -28,13 +28,13 @@ I look at the puckered face of these performers, yearning for that moment unders
 <br>
 –
 <br>
-<img src="https://github.com/certainlives/certainlives.github.io/blob/a969f3751e205620513cf3972bf9bf7ebadb570f/assets/img/civic1.jpeg" width="auto !important;" height="360px !important;">
+<img src="../assets/img/civic1.jpeg" width="auto !important;" height="360px !important;">
 <br>
 In the ruins of the TD Bank, they build a new city council. One council member believes in the capacity of art and design to soften the edges of urban inequality. The library is a model for community where knowledge and resources are freely shared. The impersonal ledger of the homeless shelter is transformed into personal testimony to be displayed on street signs and in public parks. The unused real estate of the underinvested post-office might become memorials to the hard work of couriers. The archive of shoes hanging over power lines, animal sculptures, impromptu art, temporary shelters, and ripped fences compiled by bemused city employees traces the vitality of public space. 
 
 I watch artists, curators, and critics reenact a city council meeting, complete with stilted decorum, plain video feed, rigid speaking times, and faith in civic organizing. I play the role of the crank and ask during the open comment period if we’re not fetishizing bureaucracy–why not want more? I’m reminded the bureaucracy is under attack by the Trump administration, that great artists like Fluxus’s George Maciunas understood the aestheticization of the bureaucracy could open new paths for organizing, that a “fetish” carries a value judgement that might underappreciate the work done by bureaucrats in upholding and documenting collective life. 
 <br>
-<img src="[civic2.jpeg](https://github.com/certainlives/certainlives.github.io/blob/a969f3751e205620513cf3972bf9bf7ebadb570f/assets/img/civic2.jpeg)" width="auto !important;" height="360px !important;">
+<img src="../assets/img/civic2.jpeg" width="auto !important;" height="360px !important;">
 <br>
 Like all good anarchists, I am naive. Let’s soften the edges of the bureaucracy to make daily life better. Or so they say. I fear the attachment to the bureaucracy is another limit on our imagination. Liberalism is infused with a faith in democratic institutions, pining for the perfection of civil discourse within accountable systems. 
 
