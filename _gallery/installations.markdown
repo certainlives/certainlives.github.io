@@ -11,7 +11,7 @@ a prayer said in disbelief [release show] (2024)
 
 drip (2024)
 
-<a href="https://certainlives.github.io/blog/2025-05-20-DIY-Desires-and-Institutional-Needs-pt3.html"> yours in dentistry </a> [evil dentist] (2023) 
+<a href="[https://certainlives.github.io/blog/2025-05-20-DIY-Desires-and-Institutional-Needs-pt3.html](https://certainlives.github.io/blog/2024-05-20-DIY-Desires-and-Institutional-Needs-pt3.html)"> yours in dentistry </a> [evil dentist] (2023) 
 
 <i> Staged at ISSUE Project’s Room’s 22 Boerum Theater, our third program “yours in dentistry” combined performances, a panel discussion with organizers of local DIY spaces, and an installation detailing the relationship between ISSUE Project Room and the real estate development company Two Trees Reality. The installation examined the forty year arch through which Two Trees Reality amassed property along the Brooklyn waterfront through buying buildings in neighborhoods heavily populated by artists in order to upscale these neighborhoods. Two Trees Reality’s transfer of the lease of 22 Boerum Place to ISSUE Project Room in the 2010s was contextualized within the installation as an ethical compromise forced upon the nonprofit by the real estate industry in order to gain access to space and funding. Presented alongside the performances and panel discussion, this program functioned as institutional critique, highlighting the divergent ways DIY spaces and nonprofit arts organizations interact with the real estate industry. </i>
 
@@ -23,7 +23,7 @@ drip (2024)
 
 <i> A research-based installation examining Two Trees Realty, ISSUE Project Room, and neoliberal urban development. </i>
 
-[Stuck at the Office]([assets/pdf/Office.pdf](../assets/pdf/Office.pdf)) [evil dentist] (2023)
+[Stuck at the Office](../assets/pdf/Office.pdf) [evil dentist] (2023)
 
 <i> our first program “Stuck at the Office” involved a durational installation and performance piece wherein two musicians navigated the cubicles and water coolers of an unused office space. The durational aspect of the performance transformed the mundane office into a space for community formation through asking audience members to engage with one another and with sound sculptures prepared by evil dentist. </i>
 
