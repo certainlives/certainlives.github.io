@@ -15,7 +15,7 @@ drip (2024)
 
 <i> Staged at ISSUE Project’s Room’s 22 Boerum Theater, our third program “yours in dentistry” combined performances, a panel discussion with organizers of local DIY spaces, and an installation detailing the relationship between ISSUE Project Room and the real estate development company Two Trees Reality. The installation examined the forty year arch through which Two Trees Reality amassed property along the Brooklyn waterfront through buying buildings in neighborhoods heavily populated by artists in order to upscale these neighborhoods. Two Trees Reality’s transfer of the lease of 22 Boerum Place to ISSUE Project Room in the 2010s was contextualized within the installation as an ethical compromise forced upon the nonprofit by the real estate industry in order to gain access to space and funding. Presented alongside the performances and panel discussion, this program functioned as institutional critique, highlighting the divergent ways DIY spaces and nonprofit arts organizations interact with the real estate industry. </i>
 
-[Landscape: Brooklyn Waterfront](../assets/pdf/kudzu.pdf) (2023)
+[Landscape: Brooklyn Waterfront](../assets/pdf/landscape.pdf) (2023)
 
 <i> This installation submerges a speaker playing a loop of a segment of an oral history featuring David and Jane Walentas, the couple behind Two Trees Realty, within 10 gallons of East River Water. Within the recording, the couple discusses how they invested in East River waterfront areas populated by artists as a development strategy, identifying artists as a source of value and precursor to rising rents. Through a series of microphones, the sound of their voices moving through the water is captured and played through the accompanying speakers. </i>
 
