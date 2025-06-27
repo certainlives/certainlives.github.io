@@ -23,7 +23,7 @@ drip (2024)
 
 <i> A research-based installation examining Two Trees Realty, ISSUE Project Room, and neoliberal urban development. </i>
 
-[Stuck at the Office]([assets/pdf/Stuck at the Office.pdf](../assets/pdf/Stuck at the Office.pdf)) [evil dentist] (2023)
+[Stuck at the Office]([assets/pdf/Office.pdf](../assets/pdf/Office.pdf)) [evil dentist] (2023)
 
 <i> our first program “Stuck at the Office” involved a durational installation and performance piece wherein two musicians navigated the cubicles and water coolers of an unused office space. The durational aspect of the performance transformed the mundane office into a space for community formation through asking audience members to engage with one another and with sound sculptures prepared by evil dentist. </i>
 
