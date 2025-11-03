@@ -113,7 +113,7 @@ breathe,<br>
 expand as the terminal screams.<br>
 <br>
 <br>
-Loblolly Pines<br>
+<i>Loblolly Pines</i>
 <br>
 <br>
 Green Needles Bristle<br>
@@ -132,10 +132,13 @@ Thudding rather than gliding<br>
 Amongst the Loblolly Pines<br> 
 <br>
 <br>
+<i> unititled 1 </i>
+<br>
+<br>
 The competitive funeral director tries to assemble the most successful grief. He listens for the loudest wails, the same that harmonize with the softest whimpers. He collects bodies, but deals in feeling, knowing the mourner is a bundle of cries, curses, and contrivances. Mary at the Cross stares at the laminated Mary with Child. She inhales a plume of holy water, buoyed to the surface of the sky. The Catholic priest is stiff competition, with his ritual, his divine transubstantiation. If the director gathers bundles of feeling, the priest cuts the rope–the sticks strewn about form a cross that is grief, singular and of the world. The funeral director sighs. It is so difficult to compete with true believers.<br> 
 <br>
 <br> 
-<i> untitled </i>
+<i> untitled 2 </i>
 <br>
 <br>
 I had no buck eyes red<br>
