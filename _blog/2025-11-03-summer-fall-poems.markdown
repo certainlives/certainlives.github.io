@@ -92,7 +92,7 @@ I forgot my comb, but remembered where I lay my head.<br>
 Leaving too late, trying to return again.<br>
 <br>
 <br>
-Birds in the JFK Terminal<br> 
+<i>Birds in the JFK Terminal</i>
 <br>
 <br>
 The din of hurried movements<br>
