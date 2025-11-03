@@ -49,7 +49,8 @@ And I pity the day of the weak.<br>
 <br> 
 <br>
 <i>August 17th, 7am</i>
- <br>
+<br>
+<br>
 I play the body game of getting lost in flailed limbs. It is my birthday. I am alone, playing the body game of getting lost in greens turned blue. And then again, back to green. I’m trying to reassure myself of my self in a way. I gathered people I enjoy spending time with, and kept saying that I really just want good conversation, laughs. There’s this repetition, as if I’m trying to convince myself, I’m not sure if others hear me lost in the loop, the reassurance. I guess it is a part of acknowledging and moving past other lives I’ve had.<br>
 <br>
 A new poem about dancing<br>
@@ -66,6 +67,7 @@ Of course!<br>
 <br>
 <br>
 <i> Punk Time </i> 
+<br>
 <br>
 A court date is the eternal return of the same<br>
 Deferred judgement for fabricated crimes<br>
@@ -92,6 +94,7 @@ Leaving too late, trying to return again.<br>
 <br>
 Birds in the JFK Terminal<br> 
 <br>
+<br>
 The din of hurried movements<br>
 Framed by haphazard chirps<br>
 Birds fly in holding patterns<br>
@@ -111,6 +114,7 @@ expand as the terminal screams.<br>
 <br>
 <br>
 Loblolly Pines<br>
+<br>
 <br>
 Green Needles Bristle<br>
 Above the waves of overtold stories<br>
@@ -132,6 +136,7 @@ The competitive funeral director tries to assemble the most successful grief. He
 <br>
 <br> 
 <i> untitled </i>
+<br>
 <br>
 I had no buck eyes red<br>
 To wear to my grandfather’s funeral<br>
@@ -156,6 +161,7 @@ Melting steel into buck eye red<br>
 <br> 
 <i>An Interesting Cruelty</i>
 <br>
+<br>
 Kyo tells Rocannon that the wanderer will take a companion, for a while. Wordlessness is not loneliness, he reminds the wanderer. But the wanderer will always be a stranger or a god, marked by the outside of community or nature. True companionship is the wind between the leaves, the hum of a bicycle wheel over fresh pavement, the unspoken ease of a flowing pen.<br> 
 <br>
 There’s a relationship b/w wandering and walking,<br>
@@ -164,6 +170,7 @@ Disorientation or comfort.<br>
 <br>
 <br> 
 <i>Steve Aoki in Nassau County</i> 
+<br>
 <br>
 Gabber Americana<br>
 Nostalgic Release <br>
@@ -195,6 +202,7 @@ With the black water humming beneath.<br>
 <br>
 <i>Deli Girls at Nowadays </i>
 <br>
+<br>
 A wormhole rather than a blackhole.<br>
 Pulled through time to a different space,<br>
 same sweat, different flesh.<br>
@@ -217,6 +225,7 @@ to the top of a wrist. <br>
 <br>
 <br>
 <i> The tight spiral </i>
+<br>
 <br>
 I imagine that I am at the center of a spiral and that I am pulling it tighter and tighter. It coils around me, but it also is me–a continuous line bent into tighter and tighter curves. It's like writing a sentence that never ends. Other times, it’s like a thought gathering more associations, more intricacy. A line of thought that wraps itself into a bottomless center. Sometimes, I fear this spiral. I wonder if it will suffocate me, if every coil is a sharper edge bearing down on the inside out line that I am.<br>
 <br>
