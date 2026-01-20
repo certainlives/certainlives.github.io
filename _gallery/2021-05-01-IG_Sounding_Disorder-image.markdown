@@ -2,6 +2,7 @@
 layout: gallery-post
 title:  "Sounding Disorder in Police Riots"
 date:   2021-05-01 08:39:42 -0400
+src: "../assets/img/disorder.jpeg"
 type: image
 ---
 
