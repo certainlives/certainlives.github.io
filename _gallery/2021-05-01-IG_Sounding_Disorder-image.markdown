@@ -5,6 +5,7 @@ date:   2021-05-01 08:39:42 -0400
 src: "../assets/img/disorder.jpg"
 type: image
 ---
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/JdjrUt45AGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Police rioting involves officers inciting violence against assembled groups. This project explores how police agitation transforms assemblies into riots through sound. The acoustemology of a police riot is conjured through police sound technologies. Following ethnomusicologist Steven Feld, acoustemology concerns how sound structures knowing, being, and experience. Within a police riot, dispersal orders played on a Long Range Amplification Device (LRAD)—a speaker system used to signal arrests—commands screamed over bullhorns, and unified chants across a police unit are strategic interventions in the soundscape to create disorder to justify police crackdown.
 
@@ -18,4 +19,4 @@ The visuals highlight the relationship between the Blue Lives Matter movement an
 
 This sense of conflict is key to both the theoretical and political stakes of the work. The divergent perspectives on order and disorder are entangled in a broader reckoning with the socio-political function of policing. The police riot, as used by activists and aesthetically developed here, intervenes in the narrative of policing as ordering to center violence within the maintenance of so-called “Law and Order.”
 
-<iframe width="100%" height="auto" src="https://www.youtube.com/embed/JdjrUt45AGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
