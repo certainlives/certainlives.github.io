@@ -2,8 +2,6 @@
 layout: gallery-post
 title:  "Sounding Disorder in Police Riots"
 date:   2021-05-01 08:39:42 -0400
-src: "../assets/videos/IG_Sounding_Disorder.mov"
-type: video
 ---
 
 Police rioting involves officers inciting violence against assembled groups. This project explores how police agitation transforms assemblies into riots through sound. The acoustemology of a police riot is conjured through police sound technologies. Following ethnomusicologist Steven Feld, acoustemology concerns how sound structures knowing, being, and experience. Within a police riot, dispersal orders played on a Long Range Amplification Device (LRAD)—a speaker system used to signal arrests—commands screamed over bullhorns, and unified chants across a police unit are strategic interventions in the soundscape to create disorder to justify police crackdown.
