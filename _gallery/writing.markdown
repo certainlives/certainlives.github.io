@@ -5,6 +5,10 @@ date:   2024-09-16 08:39:42 -0400
 src: "../assets/img/texture of water copy.jpg"
 type: image
 ---
+articles
+“Mermaids, Crusties, and Bureaucrats." Mnemotope 008. Bog Bodies 	Press. Brussels, Belgium.
+“Two Hardcores.” Mnemotope 007. Bog Bodies Press. Brussels,	 	Belgium.
+
 zines
 
 symbiote zine [editor] (2024) ([print](../assets/pdf/symbiote zine complete.pdf))<br>
