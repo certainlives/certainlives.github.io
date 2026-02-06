@@ -5,12 +5,17 @@ date:   2024-09-16 08:39:42 -0400
 src: "../assets/img/texture of water copy.jpg"
 type: image
 ---
+<br>
+academic articles <br>
+<br>
+[feeling pain/making kin in the brooklyn noise music scene](../assets/pdf/ldawes,+Farrow+106+Website.pdf) (2020) current musicology <br>
 articles
-“Mermaids, Crusties, and Bureaucrats." Mnemotope 008. Bog Bodies 	Press. Brussels, Belgium.
-“Two Hardcores.” Mnemotope 007. Bog Bodies Press. Brussels,	 	Belgium.
-
-zines
-
+<br>
+([“Mermaids, Crusties, and Bureaucrats."](../assets/pdf/mermaid, crusties, and bureaucrats.pdf)) Mnemotope 008. Bog Bodies Press. Brussels, Belgium.
+([“Two Hardcores.”](../assets/pdf/two hardcores.pdf)) Mnemotope 007. Bog Bodies Press. Brussels, Belgium.
+<br>
+zines<br>
+<br>
 symbiote zine [editor] (2024) ([print](../assets/pdf/symbiote zine complete.pdf))<br>
 liquid texture (2023) ([print](../assets/pdf/liquid texture zine_PRINT.pdf))
 <blockquote><i>a zine composed of poetry and text-based scores. The zine reflects on water as a source of creative inspiration and a means of creating experimental music beyond the boundaries of traditional notion. The poetry and text scores (scores that deploy words instead of notation as inspiration for musicians) serve as inspiration for both of my previous works “we could have been rich” and “drip”. I distributed this zine during a tour performing dance music composed of field recordings of water. In distributing the zine, I hoped to offer others a means of experimenting with form and composition within their creative endeavors. July 2023.</i></blockquote>
@@ -22,10 +27,7 @@ poems <br>
 <a href="https://certainlives.github.io/blog/2024-09-12-summer-poems.html">summer poems</a> (2024)<br>
 [gunshot fireflies](../assets/pdf/gunshot fireflies.pdf) (2023) <br>
 [3 poems](../assets/pdf/3 poems (2023).pdf) (2023) <br>
-<br>
-academic articles <br>
-<br>
-[feeling pain/making kin in the brooklyn noise music scene](../assets/pdf/ldawes,+Farrow+106+Website.pdf) (2020) current musicology <br>
+
 <br>
 tiny mix tapes <br>
 <a href="[https://saras.world/I-think-im-in-trouble](https://www.tinymixtapes.com/features/matana-roberts-interview-coin-coin-chapter-4-memphis)">interview: matana roberts</a> (2019)<br> 
