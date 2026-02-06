@@ -7,13 +7,13 @@ type: image
 ---
 <br>
 academic articles <br>
-<br>
 [feeling pain/making kin in the brooklyn noise music scene](../assets/pdf/ldawes,+Farrow+106+Website.pdf) (2020) current musicology <br>
+<br>
 articles
 <br>
-([“Mermaids, Crusties, and Bureaucrats."](../assets/pdf/mermaid, crusties, and bureaucrats.pdf)) Mnemotope 008. Bog Bodies Press. Brussels, Belgium. 
+[“Mermaids, Crusties, and Bureaucrats."](../assets/pdf/mermaid, crusties, and bureaucrats.pdf) Mnemotope 008. Bog Bodies Press. Brussels, Belgium. 
 <br>
-([“Two Hardcores.”](../assets/pdf/two hardcores.pdf)) Mnemotope 007. Bog Bodies Press. Brussels, Belgium.
+[“Two Hardcores.”](../assets/pdf/two hardcores.pdf) Mnemotope 007. Bog Bodies Press. Brussels, Belgium.
 <br>
 zines<br>
 <br>
