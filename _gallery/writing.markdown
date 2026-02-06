@@ -7,15 +7,18 @@ type: image
 ---
 <br>
 academic articles <br>
+<br>
 [feeling pain/making kin in the brooklyn noise music scene](../assets/pdf/ldawes,+Farrow+106+Website.pdf) (2020) current musicology <br>
 <br>
 articles
+<br>
 <br>
 [“Mermaids, Crusties, and Bureaucrats."](../assets/pdf/mermaid, crusties, and bureaucrats.pdf) Mnemotope 008. Bog Bodies Press. Brussels, Belgium. 
 <br>
 [“Two Hardcores.”](../assets/pdf/two hardcores.pdf) Mnemotope 007. Bog Bodies Press. Brussels, Belgium.
 <br>
-zines<br>
+<br>
+zines <br>
 <br>
 symbiote zine [editor] (2024) ([print](../assets/pdf/symbiote zine complete.pdf))<br>
 liquid texture (2023) ([print](../assets/pdf/liquid texture zine_PRINT.pdf))
@@ -31,6 +34,7 @@ poems <br>
 
 <br>
 tiny mix tapes <br>
+<br>
 <a href="[https://saras.world/I-think-im-in-trouble](https://www.tinymixtapes.com/features/matana-roberts-interview-coin-coin-chapter-4-memphis)">interview: matana roberts</a> (2019)<br> 
 <a href="https://www.tinymixtapes.com/music-review/pharmakon-devour">review: pharmakon - devour</a> (2019)<br>
 <a href="https://www.tinymixtapes.com/music-review/show-me-body-dog-whistle">review: show me the body - dog whistle</a> (2019)<br>
