@@ -8,6 +8,8 @@ type: image
 <br>
 academic articles <br>
 <br>
+[“Greyhound, or an Ethnography of Lost Souls.” Anthropology & Humanism 51(1).](../assets/pdf/Greyhound.pdf) <br> 
+<br>
 [feeling pain/making kin in the brooklyn noise music scene](../assets/pdf/ldawes,+Farrow+106+Website.pdf) (2020) current musicology <br>
 <br>
 articles
